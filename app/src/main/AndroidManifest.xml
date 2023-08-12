@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.YogaApp"
+        tools:targetApi="31">
+        <activity
+            android:name=".Openprds"
+            android:exported="false" />
+        <activity
+            android:name=".Openpcos"
+            android:exported="false" />
+        <activity
+            android:name=".Openpreg"
+            android:exported="false" />
+        <activity
+            android:name=".Openthy"
+            android:exported="false" />
+        <activity
+            android:name=".Openmntl"
+            android:exported="false" />
+        <activity
+            android:name=".Thyroid"
+            android:exported="false" />
+        <activity
+            android:name=".Periods"
+            android:exported="false" />
+        <activity
+            android:name=".Pregnancy"
+            android:exported="false" />
+        <activity
+            android:name=".Mentalhealth"
+            android:exported="false" />
+        <activity
+            android:name=".Pcos"
+            android:exported="false" />
+        <activity
+            android:name=".Specific"
+            android:exported="false" />
+        <activity
+            android:name=".Open3c"
+            android:exported="false" />
+        <activity
+            android:name=".Open3b"
+            android:exported="false" />
+        <activity
+            android:name=".Open3a"
+            android:exported="false" />
+        <activity
+            android:name=".Asanas3"
+            android:exported="false" />
+        <activity
+            android:name=".Warmup3"
+            android:exported="false" />
+        <activity
+            android:name=".Cleansing3"
+            android:exported="false" />
+        <activity
+            android:name=".SecondActivity3"
+            android:exported="false" />
+        <activity
+            android:name=".Open1e"
+            android:exported="false" />
+        <activity
+            android:name=".Mudras1"
+            android:exported="false" />
+        <activity
+            android:name=".Open1d"
+            android:exported="false" />
+        <activity
+            android:name=".Pranayama1"
+            android:exported="false" />
+        <activity
+            android:name=".Open1c"
+            android:exported="false" />
+        <activity
+            android:name=".Asanas1"
+            android:exported="false" />
+        <activity
+            android:name=".Open1b"
+            android:exported="false" />
+        <activity
+            android:name=".Cleansing1"
+            android:exported="false" />
+        <activity
+            android:name=".Open1a"
+            android:exported="false" />
+        <activity
+            android:name=".Warmup1"
+            android:exported="false" />
+        <activity
+            android:name=".SecondActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Splashscreenok"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

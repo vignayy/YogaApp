@@ -1,0 +1,1323 @@
+<resources>
+    <string name="app_name">YogaApp</string>
+    <string name="childcaution">Under The Guidance</string>
+    <string name="riskcaution">SKIP complex activities</string>
+
+
+    <string name="pose1">    Step 1:- Start in the push-up position with your arms completely straight and directly beneath your shoulders.\n\n
+                             Step 2:- Your body should form a straight line from your shoulders to your ankles. \n\n
+                             Step 3:- Squeeze your abs, lift one foot off the floor and bring your knee up towards your chest while keeping your body in as straight of a line as possible. \n\n
+                             Step 4:- Return to the starting position and repeat the movement with your opposite leg.. </string>
+    <string name="pose2">
+        Step 1:- Lie flat on your mat with knees bent and feet on the mat. Hands at the base ofyour head and elbows pointed out. Using your abdominals bring your head and shoulders off the mat and come up into a crunch, then lower with control.
+    </string>
+    <string name="pose3">    Step 1:- This movement is performed with a bench and a foot stool.\n\n
+                             Step 2:- Place a bench behind yourself and rest on it with your hands. Place your legs straight out in front of you. You may also place them at an elevated level as shown above.\n\n
+                             Step 3:- Begin with arms in a fully. Slowly bend at your elbows keeping the rest of your body straight. Be sure to keep your elbows back and close together.\n\n
+                             Step 4:- Dip down until your arms form a 90 degree angle and you feel a stretch in the triceps.\n\n
+                             Step 5:- Slowly extend your arms raising your body back up. Pause and contract your triceps muscles at the top. Pause and repeat the movement.</string>
+    <string name="pose4">    Step 1:- Lie flat on the floor with your lower back pressed to the ground (pull your navel in to also target your deep abs). \n\n
+                             Step 2:- Put your hands behind your head, then bring your knees in towards your Chest and lift your shoulder blades off the ground, but be sure not to pull on your neck.\n\n
+                             Step 3:-Straighten your right leg out to about a 4S-degree angle to the ground while turning your upper body to the left, bringing your right elbow towards the left knee.\n\n
+                             Step 4:- Make sure your rib cage is moving and hotjust your elbows. Now switch sides and do the same motion on the other side to complete onerep. </string>
+    <string name="pose5">   Step 1:- Lay down with your hands to your sides for support. \n\n
+                             Step 2:- Raise your legs so they are off the ground, keeping the abdominals tight.\n\n
+                             Step 3:- Slowly raise your legs 90 degrees, contracting the abdominal muscles. Slowly return to starting position. Do not touch the floor with your feet.\n\n
+                            </string>
+    <string name="pose6">   Step 1:- Lay down with your hands to your sides for support. \n\n
+                             Step 2:- Raise your legs so they are off the ground, keeping the abdominals tight.\n\n
+                             Step 3:- Slowly raise your legs 90 degrees, contracting the abdominal muscles. Slowly return to starting position. Do not touch the floor with your feet.\n\n
+                            </string>
+
+
+    <string name="wpose1">
+JOGGING\n\n
+Step 1. Stand erect and place the fists loosely on the chest.\n\n
+Step 2. Start skipping on the toes and touching the heels at the back in a relaxed way. Increase the speed gradually and come to a steady jogging speed.\n\n
+Step 3. Carry on deep rhythmic breathing and relax the whole body during jogging. Continue for a while.\n\n
+Step 4. Switch over to forward jogging by raising the knees to the chest level. Repeat for a while.\n\n
+Step 5. Continue the practice with side jogging by spreading the legs sidewards and raising the heels upwards by bending the knees. Stand a while and perform Mukha Dhouti. Relax in a standing position (Täḍāsana).
+</string>
+    <string name="wpose2">
+MUKHA DHAUTI ( धौति ) ( CLEANSING THROUGH A SINGLE BLAST BREATH)\n\n
+Step 1. Stand with a slight forward bend of the trunk, palms on the thighs, and legs about a meter apart.\n\n
+Step 2. Inhale deeply and continuously expel the air forcibly as in a jet through the mouth. This is affected by the help of the diaphragm by prolonged exhalation.\n\n
+Step 3. Repeat several times
+</string>
+    <string name="wpose3">
+LOOSENING OF ANKLE JOINTS\n\n
+Step 1. Stand erect.\n\n
+Step 2. Raise and stretch up both hands from the front while inhaling.\n\n
+Step 3. Balance on the toes.\n\n
+Step 4. Bring down the hands and feet while exhaling.
+</string>
+    <string name="wpose4">
+LOOSENING OF KNEE JOINTS\n\n
+Step 1. Stand erect with hands straight down. Inhale completely.\n\n
+Step 2. Breathe out through the mouth while going down by bending the knee-joints and keeping them together.\n\n
+Step 3. Keep the body straight without bending at the waist. Come up while inhaling.
+</string>
+    <string name="wpose5">
+LOOSENING OF HIP JOINTS\n\n
+Step 1. Inhale while standing erect.\n\n
+Step 2. With knees far apart, but heels almost touch each other, sit down while exhaling.\n\n
+Step 3. Balance on the toes and sit on the heels. Try to push the knees apart with the palms.\n\n
+Step 4. Breathe in while getting up.
+</string>
+    <string name="wpose6">
+PĀDA SAÑCĀLANA (पाद सञ्चालन)\n\n
+Step 1. Stand erect but relaxed, with hands along the body.\n\n
+Step 2. Bring the right leg forward without bending the knees while inhaling.\n\n
+Step 3. Stay in the position for a few seconds.\n\n
+Step 4. Return to the standing position while exhaling.\n\n
+Step 5. Take the right leg backward (inhale).\n\n
+Step 6. Without bending the knee-joint, stay in the position for a few seconds. Return to the original position (exhale).\n\n
+Step 7. Raise the right leg sidewards to the right with the hip-joint as the hinge point (inhale). The leg is kept straight. Stay in the position for a few seconds.\n\n
+Step 8. Return to the original position (exhale). Raise the right leg sidewards to the left with the hip-joint as the hinge point (inhale). The leg is kept straight. Stay in the position for a few seconds. Return to the vertical position (exhale).\n\n
+Step 9. Repeat the complete set of movements with the left leg.
+</string>
+    <string name="wpose7">
+FRONT AND BACK BENDING OF WAIST\n\n
+Step 1. While inhaling, stretch up the hands and bend backwards.\n\n
+Step 2. Return to the vertical position and bend forward while exhaling.\n\n
+Step 3. Touch the ground with palms, if possible.\n\n
+Step 4. Come up and bend backwards during inhalation. Repeat 4 or 5 times.\n\n
+Step 5. With practice, you can touch the ground at the back with hands as in Cakrāsana and come up.
+</string>
+    <string name="wpose8">
+SIDE BENDING AND TWISTING OF WAIST\n\n
+(a) Side bending:\n\n
+Keep the legs about a meter apart.\n\n
+Raise the hands sideways parallel to the ground while inhaling.\n\n
+Bend to the right till the right-hand touches the heel while exhaling. Bend in the same plane. Look at the palm of the left hand directing forwards. Come up with inhalation. Repeat 4 or 5 times. Repeat the same on the left.\n\n
+\n(b) Twist with bending:\n\n
+Repeat (a), except that the right foot is touched with the left hand and the left foot with the right hand.\n\n
+\n(c ) Twist:\n\n
+Stand erect with hands spread out parallel to the ground, feet about 1/2 meter apart.\n\n
+Keeping the legs firm on the ground, twist to the right, right hand straight, and left hand bent at the elbow touching the chest. Exhale continuously during this twist. Come back while inhaling. Repeat on the left side. All twisting should be above the waist. Below the waist, maintain the body straight and firm bending at the knee joints. Repeat with increasing speed.
+</string>
+    <string name="wpose9">
+ROTATION FOR SHOULDER-JOINTS\n\n
+Step 1. Stand erect but relaxed, arms along the body.\n\n
+Step 2. Take the right hand back and up.\n\n
+Step 3. Rotate in an anti-clockwise direction.\n\n
+Step 4. Gradually increase the speed of rotation.\n\n
+Step 5. Return to the original position.\n\n
+Step 6. Rotate the right hand-front, up, back, and down.\n\n
+Step 7. Inhale as the hand goes up and exhale as the hand is brought down.\n\n
+Repeat the rotations in reverse order also back, up, front, and down.\n\n
+Repeat with the left hand.\n\n
+Repeat with both hands together\n\n
+</string>
+    <string name="wpose10">
+NECK-STRETCH\n\n
+Step 1. Sit on the knees, knees touching each other, heels together and facing upwards.\n\n
+Step 2. Bend forward. Rest the forehead on the ground.\n\n
+Step 3. Place the palms on either side of the head.\n\n
+Step 4. Move forward and backward with feet as the pivot.\n\n
+Step 5. Inhale while moving forward. Exhale while coming back. Repeat.\n\n
+</string>
+    <string name="wpose11">
+TIGER-STRETCH\n\n
+Step 1. Rest on the palms and the knees.\n\n
+Step 2. No bending at the elbow-joint.\n\n
+Step 3. Keep the heels apart.\n\n
+Step 4. Bring the head inwards flexing the spine up while exhaling fast through the mouth (spine convex).\n\n
+Step 5. While inhaling and raising the head up, arch the spine towards the floor (concave upwards). Repeat and increase the speed gradually.\n\n
+Step 6. Lie down on the abdomen, rest the chest on the ground and relax completely. If all the movements are done slowly, synchronizing with slow and deep breathing, it is known as Tiger breathing.\n\n
+</string>
+    <string name="wpose12">
+BACK-STRETCH\n\n
+Step 1. Rest on the toes and palms.\n\n
+Step 2. Jump backward keeping the hands straight, give a concave shape to the spine.\n\n
+Step 3. Stretch the body forward and look up. Inhale. Keep the feet together.\n\n
+Step 4. Jump forward to bring the feet between the palms.\n\n
+Step 5. Keep the palms firm on the ground. Exhale completely in this sitting position.\n\n
+Step 6. Jump backward. Start slowly and increase the speed. Repeat by jumping forwards and backward about 15 times.\n\n
+\n\n
+(a) Hands in and out breathing:\n\n
+Stand erect. Bring up the arms to a horizontal position, palms pressing each other, fingers pointing forward. Move the arms backward as much as possible while inhaling. The arms swing back with shoulders as hinges in the same horizontal plane. The chest is expanded. Bring the arms back to the front position while exhaling fully. Repeat 10 rounds.\n\n
+\n\n
+(b) Hands-stretch breathing:\n\n
+Interlock the fingers in front of the chest, palms inwards. Inhale slowly, stretch the arms straight out while twisting the interlocked hands, palms facing outwards. Exhale. Bring the hands back. Palms on the chest with relaxation. Repeat 10 times. Repeat the same movements in oblique (45°) and vertical planes.\n\n
+\n\n
+(c ) Ankle-stretch breathing:\n\n
+Stand erect. Keep the hands straight down, palms facing forward. While inhaling, raise the hands and stretch up the body on the toes. The hands and the arms stretched upwards. While exhaling, bring the hands down completely retracing the steps. Stand on the soles. Repeat 5 times.\n\n
+</string>
+    <string name="wpose13">
+BREATHING EXERCISES\n\n
+Step 1. Breathing Exercises done at the beginning of the Yoga practices help in slowing down the breath rate, thereby inducing deep relaxation.\n\n
+Step 2. They develop an awareness of breathing through the movements of different parts of the body. Close your eyes as you do them and be aware of your inner sensations.\n\n
+Step 3. Always breathe out over a longer time than you breathe in, synchronizing your breathing and movements. Note how you become calmer as your breathing slows.\n\n
+Step 4. Special tips: First emphasize the movement of hands and abdominal or thoracic muscles as needed in each exercise.\n\n
+Step 5. Correct the movements. Use "in" and "out" instructions loudly for inhalation and exhalation.\n\n
+Step 6. Check and correct the synchronization of breathing with the corresponding movements. As progress is made, close your eyes and practice.\n\n
+</string>
+
+
+    <string name="cpose1">
+1. KAPĀLABHĀTI, कपालभाति (STIMULATING THE BRAIN CELLS)\n\n1.Sit comfortably in Padmasana with an erect spine.\n2.Exhale forcibly using abdominal muscles.\n3.Inhale passively by relaxing  the abdominal muscles.\n4.Repeat as quickly as possible starting with 60 strokes per minute and increasing gradually upto 120 per minute.\n5.There is no holding of the breath.The rapid active exhalations with passive effortless inhalations are accomplished by flapping movements of the abdomen. At the end of the minute there is an automatic cessation of breath. Enjoy the deep silence of mind associated with this.\n\nBenefits: This kriya washes out the carbon dioxide from the blood, activates the brain cells, cleans the air passages and stimulates the abdominal organs
+</string>
+    <string name="cpose2">
+2.NETI (CLEANING THE NASAL PASSAGES)\n\nA.Jala Neti (जल नेति):\n2. Add about half a tea-spoon of salt to a Neti-pot-full of luke-warm water.\n3.Hold the pot in the right hand.Insert the nozzle of the pot into the right nostril.Keep the mouth open to allow free breathing through the mouth.\n4.Tilt the head first slightly backwards, then forwards and sidewards to the left, so that the water from the pot enters the right nostril and comes out through the left by gravity.\n5.Allow the flow till the pot is empty. Repeat the same on the left side. Blast out the air accumulated in both the nostrils by active exhalations through alternate nostrils as in Kapālabhāti to clean the nasal passages of the remaining water.By slightly bending the head back, the water goes to mouth which can be swallowed after washing the passages of nostrils. This is called "Uṣaḥ pāna" which can be practiced early morning before sunrise with beneficial effects.\n\nB. Sūtra Neti or Rubber Catheter Neti (सूत्र नेति)\n\n1.Insert the blunt end of a thin soft rubber catheter from the front horizontally in the right nostril.\n2. Push it along the floor of the nose until the tip is felt in the back of the throat.\n3.Insert the right index and the middle fingers through the mouth and catch the tip of the catheter at the back of the throat. Put it out through the mouth and gently massage the nasal passage by catching the two ends of the tube.\n4.Remove the catheter through the nose. Repeat on the left side.\n\nC. Dugdha Neti and Ghrita Neti (दुग्ध नेति एवं घृत नेति)\n\nHere milk and ghee are used respectively in place of water as in Jala Neti.\n\nD. Vyutkrama Kapāla Neti (व्युत्क्रम कपाल नेति)\n\nThis is similar to Jala Neti, with the difference that the water comes out of the mouth instead of through the opposite nostril.\n\nE. Sitkrama Kapāla Neti (सीत्क्रम कपाल नेति)\n\n1.Take a mouthful of luke-warm saline water.\n2.Bend forward and relax the soft palate so that the water comes out of the nose.\n3.Neti Kriya is to be followed by a few rounds of Kapālabhāti, so as to keep the nasal passage clear. Neti, in general, purifies most structures in the head and neck.\n\nBenefits: Neti not only clears the nasal passages but also renders the nose resistant to many irritants like water, cotton, rubber, ghee, milk etc. Hence it is very helpful in removing the hypersensitivity as seen in persons suffering from allergic rhinitis. Vision becomes more subtle.
+</string>
+    <string name="cpose3">
+3. DHOUTI (CLEANSING THE INTESTINAL TRACT UPTO THE STOMACH)\n\nA.Jala Dhouti or Vamana Dhouti (जल धौति / वमन धौति)\n\n1.Sit on heels, and drink luke-warm saline water till you can take no more, or till you feel like vomiting it out.\n2.Churn the stomach by twisting exercise(1.8)Stand with feet together and trunk bent forward forming an angle of about 90° and vomit.\n3.Now with the help of the middle three fingers tickle the back of the throat to vomit out (Vamana) all the water.\n4.Repeat the process of tickling, till no more water comes out, which means that almost all water had been vomited.\n5.This Kriya is also called as Kunjal. With continued practice, one can stimulate the vomiting sensation and vomit out the water without using the fingers at the throat. Further practice can lead to a continuous vomiting of all the water through the mouth, as if it is coming in a jet resembles the water-jet that comes out of the trunk of an elephant and as such is termed "Gajakarani".\n\nB.Vastra Dhouti (वस्त्र धौति )\n\n1.Slowly swallow a wet piece of cloth four fingers broad and about 7 meters long under the guidance of an instructor or a Guru.\n2.Slowly bring out the cloth without forcibly pulling it.\n3.This process is called Vastra Dhouti. If the vastra tends to get stuck up, drink some water to release the spasm.\n\nC. Danda Dhouti (दंडा धौति)\n\n1.Drink lukewarm saline water as in Vamana Dhouti.\n2.Take a rubber tube (Danda) about 1 cm. in diameter and about a meter long. Slowly place one end of the tube and push it down the gullet into the stomach. When it reaches the stomach, slowly bend forward.\n3.All the water will come out by syphon action. Suck in and bulge out the stomach if necessary. Remove the tube gently.\n4.These Kriyas should be performed early in the morning preferably before dawn and after clearing the bowels.\n\nBenefits: Dhouti Kriya is extremely useful for gas trouble, high acidity in the stomach, and for curing Asthma also.
+</string>
+    <string name="cpose4">
+4.NAULI (CONTROL OF THE ABDOMINAL  RECTI)\n\nA.Uddiyana\n\n2.Stand with a slight forward bend of the trunk, palms on the thighs and legs about a meter apart.\n3.Exhale completely by vigorously contracting the muscles of the abdomen. Chest also gets contracted.\n4.Press the hands against the thighs (thus fixing up the muscles of the neck and the shoulders) and have vigorous mock-inhalation by raising the ribs without allowing air to flow into the lungs.\n5.Relax the muscles of the abdomen. Automatically the diaphragm will rise up producing a concave depression of the abdomen. This is called Udḍīyana.\n6.In this breathe-out condition  push-out and pull-in the abdominal muscles fast. Continue until the "breathe-out condition" lasts. Count the number of flappings. This process is called Agnisara Kriya (अग्निसार क्रिया).\n\nBenefits: This Kriyā tones up the digestive system by continued stimulations.\n\nB. Madhyama Nauli (मध्यम नौलि)\n\n1.Maintaining Uḍḍīyana, give a forward and downward push to the abdominal point just above the pelvic bone in the mid-line, where the two recti originate.\n2.This push brings about the contraction of these muscles which stand out in the center, leaving the other muscles of the abdominal wall in a relaxed condition. This is Madhyama Nauli (Middle Nauli).\n\nC. Dakṣina  nauli (दक्षिण एवं वाम नौलि)\n1.For Dakṣina (right) Nauli, one has to contract the right rectus alone leaving the other muscles including the left rectus relaxed.\n2.For Vama (left) Nauli, only the left rectus is contracted leaving the others relaxed.\n\nD. Nauli Cālana (नौलि चालन)\n\n1.When one has gained full control over these three types of Nauli, rolling of the recti muscles clockwise and anticlockwise is practiced. This is called “Nauli Calana”.\n\nBenefits: A very fine Kriya for promoting the health of the abdominal viscera. The autonomic nerve centers and the endocrine glands in the abdomen are all activated. Due to the negative pressure created in the abdomen, the circulation to the abdominal organs improves enormously, and stimulates gastric fire, thus helping digestion.
+</string>
+    <string name="cpose5">
+5.Traṭaka (Fixing the Mind)\n\n1.Sit in any meditative posture Padmasana, Vajrasana, etc., comfortably with an erect spine.\n\n2.Arrange a lightened lamp with the flame at the same height as the eyes at a distance of about a meter. Start gazing at the flame without winking the eyelids.\n\n3.Learn to ignore the irritation and watering of the eyes. With practice, the gaze becomes steady, making the mind single-pointed. Relaxation of the eyes is important. Otherwise, excessive strain of the eye muscles may cause headaches. Progress slowly starting with 10 secs. and increasing the duration by 10 secs. per week.\n\nBenefits: This cleansing process activates the tear glands, purifies the visual system, promotes good concentration, and strengthens willpower. Generally, it cures eye defects if done properly.
+</string>
+    <string name="cpose6">
+6.VIPARITAKARANÍ KRIYĀ विपरीतकरणी(CLEANSING IN INVERTED POSTURE)\n\n1.Lie supine on the ground over the blanket, with arms stretched above the head. 1.Raise the legs together to 45° keeping the knees straight.\n\n2.Raise further to 90°.\n\n3.Now raise the buttocks and the trunk, by supporting the body with the palms at the waist, to take the weight on the arms and elbows.\n\n4.Come to the final position with the body at 45° to the ground and the legs vertical.\n\n5.Perform forcible exhalations as in Kapālabhāti Kriya, start with 10 strokes and gradually increase the number of strokes. Come down slowly and relax.\n\nBenefits: Kriya stimulates the abdominal organs toning them up. Very effective for persons suffering from abdominal disorders and diabetes.
+</string>
+    <string name="cpose7">
+7.ŚANKHAPRAKSĀLANA KRIYĀ शंखप्रक्षालन क्रिया(COMPLETE BOWEL-WASH)\n\nDrink slowly about half a liter of luke-warm saline water.\n\nPerform dynamic exercises in the following order:\n\n1.Walking on toes with heels raised and hands lifted up.\n\n2.Twisting of the waist 3 times each side.\n\n3.Bhujangasana 3 times.\n\n4.Süryanamaskāra position 7 twisting towards left and right alternately 3 times each side.\n\n5.Ardha Matsyendrasana 3 times.\n\n6.Pavana Muktāsana.\n\n7.Udara karṣaṇāsana\n\n1.Sit on the heels, legs a little apart, as we sit in the lavatory for excretion.\n\n2.Turn the right leg with the right sole as the hinge, such that the right knee touches the ground by the left side of the left foot. Twist the whole body, especially the stomach muscles. Return to the original position.\n\n3.Repeat the process with the left leg and a fine twist to the right. Return. Repeat 3 times on each side. If a sensation to excrete is there, go to the toilet and empty the bowel. Drink about ½ liter of water again and perform the same series of exercises. Repeat 3 or 4 times until you get the sensation. Sometimes if there is no sensation of excretion even after 3 or 4 repetitions, Cakrāsana is performed.\n\n4.This helps to push out the excreta more effectively. After excretion again drink about the same quantity of water and repeat the exercises. Empty the bowel. This time the motion would be thinner and would come out with yellowish water. Repeat till mere water comes out.\n\n5.Relax completely in Savasana for at least an hour. During this period, small quantities of water may get emptied from the stomach a few times. Eat Khicaḍi (rice and dhal boiled together preferably without salt) with about 4-6 teaspoonful pure ghee. Leave about an hour after Savāsana.\n\n6.No spices or hard food should be taken for the next 12 hours.\n\n7.As this Kriya is exhausting because of the vigorous exercises involved and complete washing out of the juices, a complete day s rest is beneficial and almost essential the first time. After the process is learned, this Kriya is to be performed only once or twice in a year.\n\nBenefits: This complete wash of the bowel clears all the waste products in the bowel. Sankha-Prakṣālana revitalizes all the glands in the intestinal tract. Helps in overcoming the Tamas (laziness). When performed under guidance, it is useful in treating chronic disorders of the large intestine.
+</string>
+    <string name="cpose8">
+8. PAVANA MUKTĀSANA KRIYĀ (पवनमुक्तासन) (WIND RELEASING TECHNIQUE)\n\nA.Type 1\n\n*Sthiti: Lie supine on the ground over the blanket, heels together, arms stretched above the head.* Sthiti represents the starting position to be assumed before the asana.\n\n1.Raise the right leg keeping it straight to about 45° from the ground. Keep the left leg firmly on the ground. Inhale partially.\n\n2.Place the right leg perpendicular to the ground; complete inhalation.\n\n3.Bend the right leg and press the knees over the chest by holding the legs by interlocked fingers of the hands. Exhale.\n\n4.Take the chin above the knees. Rotate the left leg in an elliptical fashion 5 times in the clockwise direction and 5 times in the anticlockwise direction. Normal breathing. *Return to Sthiti position through 5 to 8.* Repeat with the left leg.\n\nB.Type 2\n\nStart from the Sthiti position.\n\n1.Take both legs to 45° position; keep the knees straight. Inhale slowly.\n\n2.Bring the legs perpendicular to the ground; complete inhalation.\n\n3.Bend the knees, and press them onto the chest by the hands with interlocked fingers. Exhale. Take the chin above the knees.\n\n4. (a) Take the chin above the knees. Roll the body to the right until the right elbow touches the ground. Roll back to the left till the left elbow touches the ground. Repeat this sideward rolling 5 times.\n\n(b) Rock the body forwards and backward about 5 times; normal breathing. Return to Sthiti from 5 to 8.\n\nBenefits: The movements coupled with the posture of the body in Pavana Muktasana help to remove the gaseous accumulations in the stomach, increase the digestive power and remove constipation.
+</string>
+
+
+    <string name="apose1">
+1.SURYANAMASKARA(Salutation to sun)\n\n
+Mantra, along with the corresponding name of Sun God in the following sequence:\n\n
+1. ॐ ह्रां मित्राय नमः Aum Hrām Mitrāya Namah\n\n
+2. ॐ ह्रीं रवये नमः\n\n
+Aum Hrim Ravaye Namaḥ\n\n
+3. ॐ हूं सूर्याय नमः Aum Hrum Suryaya Namah 4. ॐ हैं भानवे नमः\n\n
+Aum Hraim Bhanave Namaḥ\n\n
+5. ॐ ह्रौं खगाय नमः Aum Hroum Khagaya Namaḥ\n\n
+THAN\n\n
+6. ॐ ह्रः पूष्णे नमः\n\n
+Aum Hraḥ Pūṣṇe Namah\n\n
+7. ॐ ह्रां हिरण्यगर्भाय नम: Aum Hrām Hiranyagarbhāya Namah\n\n
+8. ॐ ह्रीं मरीचये नमः\n\n
+Aum Hrim Maricaye Namah 9. ॐ हूं आदित्याय नमः Aum Hrúm Adityāya Namaḥ\n\n
+10. ॐ हैं सवित्रे नमः\n\n
+Aum Hraim Savitre Namah\n\n
+11. ॐ ह्रौं अर्काय नमः\n\n
+Aum Hroum Arkāya Namaḥ\n\n
+12. ॐ ह्रः भास्कराय नमः Aum Hrah Bhaskarāya Namah\n\n
+Each stage of Suryanamaskāra is accompanied by regulation of breath. The 12 steps of the Süryanamaskāra are as follows:\n\n
+1.Stand erect with the legs together and palms together. Take the hands above the head and bend the trunk backwards. Here, inhale fully.\n\n
+2.Bend the body to the front and touch the knees by the forehead. Keep the palms on the floor on either side of the legs. Exhale fully.\n\n
+3.In this stage, kick the right leg back, take the left knee forward, look up and inhalePress the buttock close to the heel. \n\n
+4. In the next step, take the left leg also back, resting only on palms and toes; keep the body straight from head to toes inclined to the ground at about 30°. Here exhale completely.\n\n
+5.Now, bend at the knee and rest the knees on the floor without altering the positions of the palms and toes. Rest the forehead on the groundIn this position inhale while moving backwards and then exhale completely. Do not stretch the ankles.\n\n
+6.Without moving the hands and toes, come forward on the chest and rest the forehead. In this position A Saṣṭānga Namaskara, forehead, chest, palms, knees and feet are the eight organs that will be touching the ground. The buttocks will be raised up. Stay in Breath-out condition (Bahyakumbhaka).\n\n
+7.Inhale, raise the head and trunk making the spine concave upwards without changing the position of the hands and feet. Keep the knees off the ground.\n\n
+8.Exhale. Raise the buttocks, push the head down and have a complete arch with the heels touching the ground and palms on the floor. \n\n
+9.Same as 5th step. Inhale and exhale. \n\n
+10. Inhale and bring the right leg in between the two hands and in line with them. Arch the back concave upwards as in step 3.\n\n
+11.Exhale and bring the left foot forward next to the right foot and touch the knees with forehead as in 2.\n\n
+12.Inhale. Come up, stand erect with hands in Namaskar mudra and relax.\n\n
+( In 10 stages Süryanamaskāra, the 5th and 9th stages are omitted.)\n\n
+Meditation or contemplation with the prolonged pronunciation of "Omkar", the Bija Akṣara Ha and the letter or the sound R which comes in every Mantra influences and stimulates the nerve centres in the brain corresponding to the respiratory, circulatory and digestive systems, make them more active, efficient and healthy.\n\n
+The different names of the Sun according to their meanings, instil in the person those qualities like friendship, devotion, energy, health, strength, lustre and vigour as he identifies with the Supreme and meditates on those qualities during the practice
+</string>
+    <string name="apose2">
+Tadasana\n\n
+Tadasana, also known as Mountain Pose, is a foundational standing yoga asana that embodies strength, stability, and alignment. It serves as the basis for many other standing postures in yoga and is often practiced as a starting point for sun salutations and other sequences.\n\n
+Step 1: Stand tall with your feet together, toes touching, and heels slightly apart. Distribute your weight evenly on both feet, and let your arms hang naturally by your sides.\n\n
+Step 2: Engage your thigh muscles, lifting your kneecaps slightly, and gently tuck your tailbone to lengthen your spine. Keep your pelvis in a neutral position.\n\n
+Step 3: Roll your shoulders back and down, opening your chest and broadening your collarbones. Relax your arms, with your palms facing forward.\n\n
+Step 4: Lengthen your neck and align your head with your spine. Soften your facial muscles and gaze forward, fixing your eyes on a point in front of you.\n\n
+Step 5: Breathe deeply and evenly, feeling grounded through your feet and the four corners of each foot. Keep the body firm and strong, yet relaxed.\n\n
+Step 6: Maintain the pose for about 30 seconds to 1 minute, focusing on your breath and the sensations in your body.\n\n
+Benefits:\n\n
+Tadasana - Mountain Pose provides several benefits for both the body and mind, including:\n\n
+1. Improved Posture: Regular practice of Tadasana helps to align the spine, shoulders, and pelvis, leading to improved overall posture.\n\n
+2. Balance and Stability: This pose enhances the sense of balance and stability by grounding the feet and cultivating body awareness.\n\n
+3. Strengthened Thigh Muscles: The engagement of the thigh muscles in Tadasana helps to build strength in the legs.\n\n
+4. Increased Height: While not actually increasing height, Tadasana encourages the elongation of the spine, making you stand taller and appear more poised.\n\n
+5. Mindful Awareness: As a foundational pose, Tadasana promotes mindful awareness of body alignment and breath, fostering a sense of presence and inner calm.\n\n
+Overall, Tadasana - Mountain Pose is a simple yet powerful posture that can be practiced on its own or as a starting point for various yoga sequences. It serves as a reminder to stand tall and grounded in both our physical practice and daily lives.
+</string>
+    <string name="apose3">
+PĀDA HASTĀSANA - Forward-Bend Posture\n\n
+पादहस्तासन\n\n
+Pada means feet and Hasta means hands. In the final position hands will be kept by the side of the feet while bending the trunk forward\n\n
+STHITI :Stand erect in a straight line keeping the heels together and toes a little apart. Expand the chest and drop the shoulders to a relaxed positionKeep the neck straight. Fingers together, facing downwards and palms stretched along the thighs by the sides. Relaxed face.\n\n
+Ekam (1)\n\n
+With inhalation raise both the hands sideways up to shoulder level, palms facing down.\n\n
+Dve (2)\n\n
+Raise the hands up above the head with biceps touching the ears, palms facing forward. Continue the inhalation and stretch up the body from the coccyx.\n\n
+Trini (3)\n\n
+With exhalation bend forward till the trunk comes to horizontal position, parallel to the ground.\n\n
+Catvāri (4)\n\n
+Bend further to touch the knees with the forehead and till the palms can rest on the ground, by the side of the feet, with exhalation. This is the final position of the asana. Breathe normally.\n\n
+Panca (5)\n\n
+Slowly raise the head along with the hands from the coccyx parallel to the ground with inhalation\n\n
+Şaṭa (6)\n\n
+Raise the trunk along with the hands further to vertical position of the body with continuous inhalation.\n\n
+Sapta (7)\n\n
+Bring the hands down sideways up to shoulder level with the exhalation.\n\n
+Aṣṭa (8)\n\n
+Bring the hands down i.e., come back to sthiti while exhaling.\n\n
+BENEFITS\n\n
+Cultural :-The entire posterior muscles, sciatic nerve, tendons and ligaments of thighs and legs are stretched nicely. Spinal and pelvic nerves are toned up. Blood circulation to the brain increases. Enhances secretion of gastric juices, reduces girth and slims down waist and hip muscles.\n\n
+Therapeutical: Good for digestive, gastric and intestinal problems. Useful in treating diabetes and improves function of the liver.\n\n
+Spiritual:Improves surface awareness, awareness of blood flow to the head region. Develops humility. \n\n
+CAUTION:Persons suffering from high blood pressure and heart diseases should do with care; spondylitis and lumbago patients should avoid.\n\n
+SUBTLE POINTS\n\n
+Mode of bending:\n\n
+Legs should be straight and top of the head towards the floor in the final position of the Asana.\n\n
+Mode of breathing:\n\n
+Breathe out whenever you bend downwards and inhale while coming up. Normal breathing in the final position.
+</string>
+    <string name="apose4">
+Vrikshasana\n\n
+Vrikshasana, also known as Tree Pose, is a standing yoga asana that cultivates balance, stability, and concentration. The pose is named after a tree, as the final position resembles a tree standing tall with its roots grounded and branches reaching upward. Vrikshasana offers a sense of grounding and connection to nature while enhancing physical and mental awareness.\n\n
+Step 1: Begin by standing upright on your yoga mat, feet together, and arms resting at your sides.\n\n
+Step 2: Shift your weight onto your left foot, finding your balance. Then, bend your right knee and bring the sole of your right foot to rest against the inner left thigh or calf. Avoid placing your foot on the knee joint.\n\n
+Step 3: Once your foot is comfortably placed, find a focal point in front of you and fix your gaze on it. This will help you maintain balance and focus.\n\n
+Step 4: Press your palms together at your chest in a prayer position, or extend your arms overhead, reaching towards the sky like branches of a tree.\n\n
+Step 5: Engage your core muscles to maintain stability, and find a steady breath as you hold the pose for several breaths.\n\n
+Step 6: Gently release your arms and lower your right foot back to the floor.\n\n
+Step 7: Repeat the pose on the opposite side, shifting your weight to your right foot and placing your left foot against your right inner thigh or calf.\n\n
+Benefits:\n\n
+Vrikshasana - Tree Pose offers a variety of benefits for the body and mind, including:\n\n
+1. Improved Balance: The one-legged stance in Tree Pose enhances balance and stability, both physically and mentally.\n\n
+2. Leg Strength: The standing leg, as well as the leg pressing against it, are engaged, contributing to leg strength and stability.\n\n
+3. Focus and Concentration: The need to maintain balance and gaze at a fixed point cultivates concentration and mental focus.\n\n
+4. Mind-Body Connection: Vrikshasana encourages the practitioner to connect with their body, breath, and surroundings.\n\n
+5. Grounding and Confidence: The pose rooted nature and upward-reaching branches symbolize grounding and growth, fostering a sense of confidence and empowerment.\n\n
+Vrikshasana can be practiced by individuals of various levels, with modifications as needed. It is a gentle yet powerful pose that invites a sense of harmony and poise into your practice and daily life.
+</string>
+    <string name="apose5">
+TRIKONASANA - Triangle Posture\n\n
+त्रिकोणासन\n\n
+Tri means Three, Kona means angle and Asana means posture. In this final position, the body resembles a triangle.\n\n
+STHITI: Stand erect in a straight line keeping the heels together and toes a little apart. Expand the chest and drop the shoulders to a relaxed position. Keep the neck straight. Fingers together, facing downwards and palms stretched along the thighs by the sides. Relaxed face. Raise both the hands slowly by the sides till they reach the horizontal position as the right foot is moved to about a metre away from the left foot. (Inhale)\n\n
+Ekam (1)\n\n
+Slowly bend to the right side in the same plane. The fingers of the right hand touch the right foot. The left arm is straight up, in line with the right hand. Left palm faces forwardStretch up the left arm and gaze along the fingers.(Exhale)\n\n
+Dve (2)\n\n
+Slowly come back to the horizontal position without disturbing the legs. (Inhale)\n\n
+Trini (3)\n\n
+Bring both the hands slowly down while keeping the right leg by the side of the other leg(Exhale)\n\n
+(Note: Repeat the same with the other side.)\n\n
+BENEFITS\n\n
+Cultural:\n\n
+Stretches the whole body, especially the spine and back muscles. Stretch and relaxation of intercostal muscles, thighs, calves, and hamstring muscles. Adrenal glands are stimulated. Massages Liver, Spleen, Pancreas, and Kidneys. Slims down the hips and waistline, calves, and thighs.\n\n
+Therapeutical: Good for flat foot, Diabetes, Respiratory Ailments, Urinary disorders. Good in treating foot constipation and enhances appetite. Pain in the lower back, neck, elbows, waistline, and knees are relieved. Also effective for sciatica and hunchback.\n\n
+CAUTION\n\n
+Persons suffering from low back pain and arthritis should be careful.\n\n
+SUBTLE POINTS\n\n
+Mode of bending:\n\n
+Bend from the right waist region and do not bend the knees and elbows. Avoid forward bending.\n\n
+Mode of breathing:\n\n
+Breathe out whenever you bend sidewards and inhale while coming upNormal breathing in the final position.
+</string>
+    <string name="apose6">
+PARIVṚTTA TRIKONASANA - Crossed Triangle Posture\n\n
+परिवृत्तत्रिकोणासन\n\n
+Parivrtta means crossed, Trikona means triangle. In the final position of the posture, the body forms a Crossed Triangle Posture.\n\n
+STHITI:\n\n
+Stand erect in a straight line keeping the heels together and toes a little apart. Expand the chest and drop the shoulders to a relaxed position. Keep the neck straight. Fingers together, facing downwards and palms stretched along the thighs by the sides. Relaxed face.\n\n
+Ekam (1)\n\n
+Take the right foot apart from the other leg approximately one metre.\n\n
+Dve (2)\n\n
+Raise the hands sideways up to shoulder level palms facing downwards\n\n
+Trini (3)\n\n
+Turn from the waist towards the left side at 90 degrees, without disturbing the feet.\n\n
+Catvāri (4)\n\n
+Bend from the waist to place the right palm on the floor by the side of the left foot. Then look at the raised palm(Exhale)\n\n
+Pancha (5)\n\n
+Slowly come up, facing the trunk towards the right side and hands should be at shoulder level. (Inhale)\n\n
+Saṭa (6)\n\n
+Turn from the waist towards the front.\n\n
+Sapta (7)\n\n
+Bring the hands down.\n\n
+Asta (8)\n\n
+Take the right foot back and keep it by the side of the left foot. (Note:- Repeat the same with the other side.)\n\n
+BENEFITS\n\n
+Cultural:\n\n
+Stretches all vertebrae and maintains health of the spinal column. Most of the intra abdominal organs are massaged and toned. Flexibility of the spine, waist, and hip increases. Reduces abdominal fat and trims the waistline. Gives good rotational movement of the spine. Vitalises kidneys.\n\n
+Therapeutical:\n\n
+Good for many digestive disorders. Loosens stiff joints of hips, shoulders, ankles, knees and relaxes stiffness in torso muscles.\n\n
+Spiritual:\n\n
+A sense of lightness, freshness, and relaxation is felt. Awareness of blood flow is developed.\n\n
+CAUTION\n\n
+Those with severe cardiac problems, lumbago and heart ailments should avoid it.
+</string>
+    <string name="apose7">
+PĀRSVAKOŅĀSANA - Lateral Angle Posture\n\n
+पार्श्वकोणासन\n\n
+Parsva means lateral, Kōna means angle. In the final position of the posture, the body forms an angle by the sideways.\n\n
+STHITI:\n\n
+Stand erect in a straight line keeping the heels together and toes a little apart. Expand the chest and drop the shoulders to a relaxed position. Keep the neck straight. Fingers together, facing downward and palms stretched along the thighs by the sides. Relaxed face.\n\n
+Ekam (1)\n\n
+Take the right leg apart from the left approximately 1 to 1.5 metres.\n\n
+Dve (2)\n\n
+Turn the right foot towards the right side at 90 degrees, without turning the body.\n\n
+Trini (3)\n\n
+Bend towards the right side, keeping the right thigh going parallel to the ground. Place the right palm on the right side of the right foot, with fingers together and facing outside. The right side of the body should touch the right thigh (while exhaling).\n\n
+Catväri (4)\n\n
+Raise the left arm up biceps touching the left ear, keeping the arm straight and gaze at the fingertips (normal breathing). This is the final posture.\n\n
+Panca (5)\n\n
+Bring the left hand back and place it on the left thigh (while inhaling).\n\n
+Şata (6)\n\n
+Slowly come up, keeping the right foot as it is (while inhaling).\n\n
+Sapta (7)\n\n
+Turn the right foot 90 degrees to the left.\n\n
+Asta (8)\n\n
+Bring the right leg closer to the left leg (while exhaling).\n\n
+(Note: - Repeat the same with the other side.)\n\n
+BENEFITS\n\n
+Cultural:\n\n
+Expands thoracic muscles. Strengthens calves, forehands, biceps, ankle, knee, wrist, and shoulder joints. Stretches and relaxes thighs.\n\n
+Therapeutical:\n\n
+Useful in treating Diabetes, Constipation and pain in foreleg and ankle joints.\n\n
+Spiritual: \n\n
+Builds feelings of expansiveness and relaxation.
+</string>
+    <string name="apose8">
+VAJRĀSANA - The Ankle Pose\n\n
+वज्रासन\n\n
+Vajra means diamond. Figuratively Vajra signifies strength and vigour. By the practice of this Asana the Vajra Nāḍi which runs through the ankle is toned and strengthened. In a more comprehensive way, Vajrasana practice strengthens the entire psycho-physiological system.\n\n
+STHITI: Sit erect with legs stretched heels together, palms pressing on the floor by the side of the buttocks.\n\n
+Ekam (1)\n\n
+Fold the right leg at the knee and place the heel under the right buttock.\n\n
+Dve (2)\n\n
+Fold the left leg at the knee and place the heel under the left buttock. Knees must be together and rest the palms on the upper thighs. Sit erect in a relaxed state.\n\n
+Trini (3)\n\n
+Gently unfold the left leg and keep it straight as in Ekam position.\n\n
+Catvari (4)\n\n
+Gently unfold the right leg and return to Sthiti.\n\n
+BENEFITS\n\n
+Cultural\n\n
+Loosens the joints and muscles of the legs. Increases blood circulation to the lower abdominal region.\n\n
+Therapeutical\n\n
+Extremely good for hypertension, sciatica, and gastro-intestinal disorders.\n\n
+Spiritual\n\n
+Very much useful in meditation and pranayama practices.\n\n
+Severe arthritis patients should do carefully.\n\n
+CAUTION\n\n
+SUBTLE POINTS\n\n
+Mode of Bending\n\n
+Try to keep the heels together, if possible. Maintain an erect spine with relaxed shoulder and neck joints.\n\n
+Mode of Breathing\n\n
+Maintain slow, deep, rhythmic, relaxed abdominal breathing.
+</string>
+    <string name="apose9">
+SASĀŅKĀSANA - The Rabbit or The Crescent Moon Posture\n\n
+शशांकासन\n\n
+Saśāņka means Crescent Moon. It is also believed that originally the name was Saśaka (Rabbit) Asana (Posture). In the final position of the asana, the body resembles a Crescent Moon or Rabbit.\n\n
+STHITI:\n\n
+Sit erect with legs stretched, heels together, palms pressing on the floor by the side of the buttocks.\n\n
+Ekam (1)\n\n
+Slowly bend the right leg, and keep the heel tight under the buttocks.\n\n
+Dve (2)\n\n
+Bring the left leg under the left buttock. Keep the knees close to each other, spine erect, the head, shoulders, and buttocks in a vertical line. Rest the palms on the upper part of the thighs or covering the knees.\n\n
+Trini (3)\n\n
+Catch the right hand with the left palm behind the back.\n\n
+Catvāri (4)\n\n
+Bend forward from the waist; rest the forehead on the floor in front of the knees. (Exhale)\n\n
+Panca (5)\n\n
+Slowly raise the head and chest up (Inhale)\n\n
+Sata (6)\n\n
+Release the hands and keep the palms on the thighs.\n\n
+Sapta (7)\n\n
+Unfold the left leg and keep it straight.\n\n
+Asta (8)\n\n
+Unfold the right leg and keep it straight.\n\n
+BENEFITS\n\n
+Cultural:\n\n
+Improves blood circulation to all abdominal organs. Vitalises pelvis and nerves of the lower back. Helps in seminal weaknesses.\n\n
+Therapeutical:\n\n
+Whole body gets relaxed and the sensitivity can be felt throughout.\n\n
+Spiritual:\n\n
+The system becomes cool and the mind relaxed.\n\n
+CAUTION\n\n
+Lumbago and spondylitis patients should avoid.\n\n
+SUBTLE POINTS\n\n
+Mode of bending:\n\n
+Do not raise the buttocks above the heels. Keep both the knees and thighs joined.\n\n
+Mode of breathing:\n\n
+Breathe out whenever you bend downwards and inhale while coming up. Normal breathing in the final position.
+</string>
+    <string name="apose10">
+SUPTAVAJRASANA - Supine Ankle Posture\n\n
+सुप्तवज्रासन\n\n
+Supta means reclined/dormant. In the final position of the posture, the back rests on the floor, while keeping the feet under the buttocks as in Vajrasana.\n\n
+STHITI:\n\n
+Sit erect with legs stretched, heels together, palms pressing on the floor by the side of the buttocks.\n\n
+Ekam (1)\n\n
+Fold the right leg at the knee and place the heel under the right buttock.\n\n
+Dve (2)\n\n
+Fold the left leg at the knee and place the heel under the left buttock. Knees must be together and rest the palms on the upper thighs.\n\n
+Trini (3)\n\n
+Slowly recline backwards keeping the entire body weight on the right elbow and then on the left elbow.\n\n
+Catväri (4)\n\n
+Lie on the back by crossing the hands over the head.\n\n
+Panca (5)\n\n
+Release the hands and keep them along the side of the body. Return to position No.3.\n\n
+Sata (6)\n\n
+With the support of the elbows slowly come back to Vajrasana position. (Return to position No.2).\n\n
+Sapta (7)\n\n
+Unfold the left leg and keep it straight.\n\n
+Aṣṭa (8)\n\n
+Unfold the right leg and keep it straight i.e., return to sthiti.\n\n
+BENEFITS\n\n
+Cultural:\n\n
+Stretches and tones up the spine, abdominal organs, and pelvic region. Increases blood flow to thighs and buttocks. Reduces stiffness and rigidity in thighs and legs. Mobilizing hips, ankles, and lower back.\n\n
+Therapeutical:\n\n
+Very useful for persons who do long-standing jobs and useful against constipation.\n\n
+Spiritual:\n\n
+The dormant forces at the base of the spine become active and by regular practice, relaxation deepens.\n\n
+CAUTION\n\n
+Those who have cervical spondylitis and heart problems should avoid.\n\n
+SUBTLE POINTS\n\n
+Mode of bending:\n\n
+Keep the knees close together touching the ground.\n\n
+Mode of breathing:\n\n
+Breathe out whenever you bend downwards and inhale while coming up. Normal breathing in the final position.
+</string>
+    <string name="apose11">
+PASCHIMOTTANASANA - Posterior Stretching Posture\n\n
+पश्चिमतानासन\n\n
+Paśchima means posterior and Täna means stretch. In the final position, the entire posterior parts from the toes to the neck are stretched.\n\n
+STHITI:\n\n
+Sit erect with legs stretched, heels together, palms pressing on the floor by the side of the buttocks.\n\n
+Ekam (1)\n\n
+Raise the hands sideways up to the shoulder level without bending the elbows; and palms facing downwards.\n\n
+Dve (2)\n\n
+Raise the arms up so that the biceps touch the ears respectively; palms facing forward.\n\n
+Trini (3)\n\n
+Bend forward from the lumbar region along with the hands and keep them parallel to the ground. Let the wrists come above the toes.\n\n
+Catvāri (4)\n\n
+With the index fingers form the hooks and catch the big toes respectively. And bend further forward, then rest the face on the knees.\n\n
+Panca (5)\n\n
+Release the fingers, then come back parallel to the ground.\n\n
+Sata (6)\n\n
+Come to vertical, like 2 positions.\n\n
+Sapta (7)\n\n
+Bring the hands down to sideways i.e., come back to 1 position.\n\n
+Aṣṭa (8)\n\n
+Rest the palms on the floor, then bring the hands back to sthiti.\n\n
+BENEFITS\n\n
+Cultural:\n\n
+Stretches and tones up the entire posterior and frontal abdominal muscles. Tones up lumbo sacral nerves. Slims and trims the body in general. Liver, Pancreas, intestines, and gastric fire are activated. Helps to increase height in adolescents.\n\n
+Therapeutical:\n\n
+Useful in dyspepsia, constipation, sciatica, seminal weaknesses, piles, diabetes, and digestive disorders. Reduces fat in the abdomen.\n\n
+Spiritual: Anahata dhwani can be heard. Rouses dormant spiritual forces.\n\n
+CAUTION\n\n
+B.P., spondylitis, and chronic constipation patients should avoid. Maintaining for a long time without the practice of Udḍīyāna will lead to digestive disorders.\n\n
+SUBTLE POINTS\n\n
+Mode of bending:\n\n
+Do not allow the knees to bend. Rest your elbows on the floor.\n\n
+Mode of breathing:\n\n
+Breathe out whenever you bend downwards and inhale while coming up. Normal breathing in the final position.
+</string>
+    <string name="apose12">
+USTRASANA - Camel Posture\n\n
+उष्ट्रासना\n\n
+Ustră means camel. The final position of the posture looks like a camel.\n\n
+STHITI:\n\n
+Sit erect with legs stretched, heels together, palms pressing on the floor by the side of the buttocks.\n\n
+Ekam (1)\n\n
+Fold the right leg at the knee and place the heel under the right buttock.\n\n
+Dve (2)\n\n
+Fold the left leg at the knee and place the heel under the left buttock. (Vajrasana)\n\n
+Triņi (3)\n\n
+Stand on the knees making the trunk vertical.\n\n
+Catvāri (4)\n\n
+Recline the body backward and keep the palms on the soles.\n\n
+Panca (5)\n\n
+Slowly release the palms and return to the 3rd position.\n\n
+Sata (6)\n\n
+Slowly sit on the heels.\n\n
+Sapta (7)\n\n
+Unfold the left leg and keep it straight.\n\n
+Asta (8)\n\n
+Unfold the right leg and keep it to the side of the left leg.\n\n
+BENEFITS\n\n
+Cultural:\n\n
+Flexibility of the spine and blood flow to the brain increase and tones up abdominal viscera and stretches thoracic Region.\n\n
+Therapeutical:\n\n
+Good for backaches, breathing problems, Arthritis, Lumbago, Sciatica, Flatulence, and Gastric Troubles.\n\n
+Spiritual:\n\n
+Develops confidence, shatters tamas, and activates the practitioner.\n\n
+CAUTION\n\n
+Heart patients should do it carefully, and Hernia patients should avoid it.
+</string>
+    <string name="apose13">
+ARDHAMATSYENDRĀSANA - The Half-Twist Posture\n\n
+अर्धमत्स्येन्द्रासन\n\n
+Ardha means half, Matsyendra is a Yogi. Yogi Matsyendranath attained the highest state of Yoga in this posture. The body takes the position of half of Yogi Matsyendranaths description of the Asana.\n\n
+STHITI:\n\n
+Sit erect with legs stretched, heels together, palms pressing on the floor by the side of the buttocks.\n\n
+Ekam (1)\n\n
+Fold the right knee and place the heel tight against the perineum.\n\n
+Dve (2)\n\n
+Place the left foot by the side of the right thigh near the knee.\n\n
+Trini (3)\n\n
+Bring the right hand round the outer side of the left knee passing between the chest and the knee and catch hold of the left big toe. The right shoulder blade rests on the outer side of the left knee.\n\n
+Catvāri (4)\n\n
+Now take the left hand round the back and try to catch the right thigh. Looking back over the left shoulder, the erect knee acts as a fulcrum for getting the maximum twist of the spine. Keep the trunk vertical.\n\n
+Panca (5)\n\n
+Release the left hand; come back to the 3rd position.\n\n
+Saṭa (6)\n\n
+Slowly release the right hand over the outer side of the left knee; come back to the 2nd position.\n\n
+Sapta (7)\n\n
+Unfold the left leg; come back to sthiti.\n\n
+Asta (8)\n\n
+Unfold the right leg, then come back to sthiti.\n\n
+BENEFITS\n\n
+Cultural:\n\n
+Twists, tones, stretches, the entire spine. Enhances lower back’s flexibility. Maintains the health of the spinal nerves. Massages the spleen, liver, pancreas, intestines, and bladder. Activates the gonads. Enhances secretion of pancreatic juice and adrenaline.\n\n
+Therapeutical:\n\n
+Good for constipation, dyspepsia, diabetes, Kidney problems, enlarged and congested liver and spleen, rheumatism of back muscles, pain in hip joints, obesity, and gastritis. Reduces girth in the abdomen.\n\n
+Spiritual:\n\n
+Removes laziness and helps to attain the state of Yogi Matsyendra.\n\n
+CAUTION\n\n
+Hernia patients should avoid.\n\n
+SUBTLE POINTS\n\n
+Mode of bending: Do not sit on the heels.\n\n
+Mode of breathing:\n\n
+Breathe out whenever you bend downwards and inhale while coming up. Normal breathing in the final position.
+</string>
+    <string name="apose14">
+VAKRĀSANA - Twist Posture\n\n
+वक्रासन\n\n
+Vakra means twist. In the final position of the posture, the body will be in a twisted position.\n\n
+STHITI:\n\n
+Sit with legs stretched, heels together, palms pressing on the floor by the side of the buttocks.\n\n
+Ekam (1)\n\n
+Bend the right leg at the knee and place the right foot by the side of the left knee.\n\n
+Dve (2)\n\n
+Twist the body towards the right side and take the left hand over the right knee and catch the right big toe. Place the right hand behind the trunk and keep the right palm on the floor and look towards the right side.\n\n
+Trini (3)\n\n
+Release the left hand (unfold the left hand) and keep it by the left side on the floor.\n\n
+Catvāri (4)\n\n
+Unfold the right leg and keep it by the side of the left leg, i.e., the Sthiti.\n\n
+BENEFITS\n\n
+Cultural:\n\n
+Lateral twist obtained, tones, stretches, the entire spine. Enhances lower back flexibility. Maintains health of the spinal nerves. Massages spleen, liver, pancreas, intestines and bladder. Activates the gonads. Enhances secretion of pancreatic juice and adrenaline.\n\n
+Therapeutical:\n\n
+Good for Constipation, Dyspepsia, Diabetes, Kidney problems, enlarged and congested liver and spleen, rheumatism of back muscles. Pain in hip joints, obesity and gastritis, reduces girth in the abdomen.\n\n
+Spiritual:\n\n
+Removes laziness and helps to attain the state of Yogi Matsyendra.\n\n
+CAUTION\n\n
+Hernia patients should avoid.\n\n
+SUBTLE POINTS\n\n
+Mode of bending:\n\n
+In the final position the trunk should be straight.\n\n
+Mode of breathing:\n\n
+Breathe out whenever you bend downwards and inhale while coming up. Normal breathing in the final position.
+</string>
+    <string name="apose15">
+PADMĀSANA - The Lotus Pose\n\n
+पद्मासन\n\n
+Padma is the lotus. Lotus flower is the symbol of purity, symmetry and balance. Practice of Padmasana instills these qualities in the practitioners body-mind system.\n\n
+STHITI:\n\n
+Sit erect with legs stretched heels together, palms pressing on the floor by the side of the buttocks. \n\n
+Ekam (1)\n\n
+Fold the right leg at the knee and place the right heel at the root of the left thigh.\n\n
+Dve (2) \n\n
+Fold the left leg at the knee and place the left heel at the root of the right thigh. Place your palms on the knees, facing upwards. Join the tips of the thumb and the forefinger, keeping the other fingers straight. Sit erect in a relaxed mood.\n\n
+Trini (3)\n\n
+Unfold the left leg and return to Ekam (1). \n\n
+Catvari (4)\n\n
+Unfold the right leg and return to Sthiti position.\n\n
+BENEFITS\n\n
+Maintains balanced flow of energy throughout the body. Very useful in the practice of Antaranga yoga as one can sit comfortably for a long stretch of time maintaining awareness. \n\n
+CAUTION\n\n
+Severe arthritis patients should do it carefully.
+</string>
+    <string name="apose16">
+Mayurasana\n\n
+Mayurasana, also known as Peacock Pose, is an advanced yoga asana that requires strength, balance, and concentration. This pose is named after the peacock because the final position resembles a peacock displaying its feathers. Mayurasana is a challenging yet rewarding pose that offers numerous physical and mental benefits.\n\n
+Step 1: Start by kneeling on the floor with your knees wide apart. Sit back on your heels and place your palms on the floor with fingers pointing towards your feet.\n\n
+Step 2: Spread your fingers wide apart and press your palms firmly into the floor. Your hands should be positioned close to your body, slightly wider than shoulder-width apart.\n\n
+Step 3: Lift your hips and straighten your legs, engaging your core muscles. Your body should form a straight line from head to heels.\n\n
+Step 4: Shift your weight forward and bring your knees towards your upper arms. Keep your elbows close to your body, hugging them in.\n\n
+Step 5: Lean your torso slightly forward, lifting your feet off the floor. Shift your weight onto your hands and lift your feet higher until your legs are parallel to the floor.\n\n
+Step 6: Engage your core and maintain a steady breath as you hold the pose for as long as comfortable.\n\n
+Step 7: To release the pose, gently lower your feet back to the floor and sit back on your heels.\n\n
+Benefits:\n\n
+Mayurasana - Peacock Pose offers a range of benefits for the body and mind, including:\n\n
+1. Core Strengthening: Mayurasana requires significant engagement of the core muscles, which helps to build core strength and stability.\n\n
+2. Arm and Shoulder Strength: The pose strengthens the arms, wrists, and shoulders, improving upper body strength.\n\n
+3. Digestive Health: The pressure on the abdomen during the pose can stimulate and improve digestion.\n\n
+4. Toning of Organs: Mayurasana tones the organs in the abdominal region, potentially benefiting their function.\n\n
+5. Improved Balance: The balancing nature of the pose enhances overall stability and concentration.\n\n
+6. Confidence and Willpower: As an advanced pose, practicing Mayurasana cultivates a sense of accomplishment, confidence, and willpower.\n\n
+It is essential to approach Mayurasana with caution and under the guidance of an experienced yoga teacher. Avoid this pose if you have wrist or shoulder injuries or any medical conditions that contraindicate this asana. With consistent practice and patience, Mayurasana can become a remarkable addition to your yoga journey.
+</string>
+    <string name="apose17">
+BHUJANGĀSANA - Serpent Posture\n\n
+भुजङ्गासन\n\n
+Bhujanga means Serpent. In the final position of the posture, the body looks like a serpent when it raises its hood.\n\n
+STHITI:\n\n
+Lie down on the prone with the hands above the head keeping straight alongside the head resting the palms on the ground, touching the chin on the floor, and legs together soles facing up. Keep the body from toes to head in a straight line.\n\n
+Ekam (1) \n\n
+Bend both the elbows and place the palms on the floor by the side of the last rib bone.\n\n
+Dve (2)\n\n
+Slowly lift the head and then raise the chest. Feel the weight of the body at the lumbar region.\n\n
+Trini (3)\n\n
+Bring the chest and head down, touching the floor with the chin.\n\n
+Catvāri (4)\n\n
+Release the hands and place them above the head region on the floor i.e. come back to the sthiti.\n\n
+BENEFITS\n\n
+Cultural :\n\n
+Keeps the dorsal spine elastic and strong. Thoracic muscles expand and tone up all the 31 pairs of spinal nerves.\n\n
+Therapeutical :\n\n
+Good for back aches due to over strain work, neck pain, cervical spondylitis, hunch back, bronchitis, asthma, digestive disorders, reduction of the abdominal fat. Improves digestion and bowel action.\n\n
+Spiritual: Rise of Kundalini is noticed at the body level in the form of heat and energy outbursts.\n\n
+CAUTION Hernia patients and hypertensives should avoid.\n\n
+SUBTLE POINTS\n\n
+Mode of bending:\n\n
+a) In the first step, elbows facing towards the roof / skyAnd keep the fingers together.\n\n
+b) In final posture try to lift the trunk till the navel portion is about to leave the ground.\n\n
+c) Arch the dorsal spine well.\n\n
+d) Keep the body below navel straight in touch with the floor.\n\n
+Mode of breathing:-\n\n
+Breathe out whenever you bend downwards and inhale while coming up. Normal breathing in the final position.
+</string>
+    <string name="apose18">
+SALABHÄSANA - Locust Posture\n\n
+शलभासन\n\n
+Salabha is the name of the insect called Locust. In the final position it looks like a locust.\n\n
+STHITI:\n\n
+Lie down on the prone with the hands above the head keeping straight alongside the head resting the palms on the ground, touching the chin on the floor, and legs together, soles facing up. Keep the body from toes to head in a straight line.\n\n
+Ekam (1)\n\n
+Make the fists and place it under the root of the thigh.\n\n
+Dve (2)\n\n
+Raise both the legs together up from the waist.\n\n
+Trini (3)\n\n
+Return to position No.1.\n\n
+Catvāri (4)\n\n
+Return to sthiti.\n\n
+BENEFITS\n\n
+Cultural:\n\n
+Complements the results of Bhujangasana. Hips, lumbar region, pelvic, abdominal, Thighs, kidneys and legs are toned up. Activates pancreas.\n\n
+Therapeutical:\n\n
+Useful in combating constipation, gastritis, diabetes and lumbago.\n\n
+Spiritual:\n\n
+Body becomes light, agile and active and helps in sense control.\n\n
+CAUTION\n\n
+Persons suffering from urinary tract disorders, hernia and hypertension should avoid it.\n\n
+SUBTLE POINTS\n\n
+Mode of bending:\n\n
+In the final position the knees should be straight.\n\n
+Mode of breathing:\n\n
+Breathe out whenever you bend downwards and inhale while coming up. Normal breathing in the final position.
+</string>
+    <string name="apose19">
+DHANURĀSANA - Bow Posture धनुरासन\n\n
+Dhanuh means bow, in the final position of the posture, the body looks like a bow.\n\n
+STHITI:\n\n
+Lie down on the prone with the hands above the head keeping straight alongside the head resting the palms on the ground, touching the chin on the floor, and legs together soles facing up. Keep the body from toes to head in a straight line.\n\n
+Ekam (1)\n\n
+Fold the knees and hold the respective feet.\n\n
+Dve (2)\n\n
+Raise the head, chest and also thighs by tugging the hands and legs, so that the spine is arched backwards like a bow. Look up.\n\n
+Trini (3)\n\n
+Return to position No. 1.\n\n
+Catvâri (4)\n\n
+Return to sthiti.\n\n
+BENEFITS\n\n
+Cultural:\n\n
+Slims and activates the body. Recti muscles that flex the hip joints are toned up to be healthy. Abdominal fat is reduced.\n\n
+Therapeutical: \n\n
+Good for breathing problems, backache, diabetes, gastro-intestinal problems and improves digestion.\n\n
+Spiritual:\n\n
+Shatters tamas and stimulates the system.\n\n
+CAUTION\n\n
+Hernia patients and hypertensives should avoid.\n\n
+SUBTLE POINTS\n\n
+Mode of bending:\n\n
+Elbows should be kept unbent and knees should be together.\n\n
+Mode of breathing:\n\n
+Breathe out whenever you bend downwards and inhale while coming up. Normal breathing in the final position.
+</string>
+    <string name="apose20">
+SARVĀṆGĀSANA - Standing-On-Shoulders सर्वांगासन\n\n
+By the practice of this asana, the health of all parts of the body (Sarvanga) is maintained. This is achieved by toning and balancing the functioning of the Thyroid.\n\n
+STHITI:\n\n
+Lie down on the supine keeping the legs together and stretch the hands straight above the head region i.e., from toes to head, the entire body in a straight line.\n\n
+Ekam (1)\n\n
+Raise both the legs together up to 45 degrees from the ground.\n\n
+Dve (2)\n\n
+Further raise the legs up to 90 degrees and place the hands by the side of the body.\n\n
+Trini (3)\n\n
+Raise further, the buttocks and the trunk taking the support of the arms and the elbows by firmly placing the elbows on the ground and supporting the back with both the palms. Keep the legs parallel to the ground.\n\n
+Catvari (4)\n\n
+Keep the trunk and legs in a straight line by supporting the trunk on the shoulders. Keep the head on the floor.\n\n
+Panca (5)\n\n
+Return to position No. 3.\n\n
+Sata (6)\n\n
+Return to position No. 2.\n\n
+Sapta (7)\n\n
+Return to position No. 1.\n\n
+Asta (8)\n\n
+Return to sthiti.\n\n
+BENEFITS\n\n
+Cultural:\n\n
+Maintains healthy thyroid and thereby general health. Beneficially influences and tones up the pelvic organs. Brain gets a rich supply of blood.\n\n
+Therapeutical: \n\n
+Good in treating Varicose Veins, Piles, Hernia, Faulty Thyroid ailments, Visceroptosis, Dyspepsia, Constipation, and Menstrual disorders.\n\n
+Spiritual:\n\n
+Memory develops, good for concentration and balance of mind.\n\n
+CAUTION\n\n
+Those with Hypertension, Lumbago, Slip-disc, and Cervical Spondylosis should avoid.\n\n
+SUBTLE POINTS\n\n
+Mode of bending:\n\n
+In position No.01 knees should not be bent and in position No.03, without lifting the head, take the support on the arms and the elbows. Do not stretch the ankles in the final position.\n\n
+Mode of breathing:\n\n
+Breathe out whenever you bend downwards and inhale while coming up. Normal breathing in the final position.
+</string>
+    <string name="apose21">
+Matsyasana\n\n
+Matsyasana, also known as Fish Pose, is a backbend yoga asana that opens up the chest and throat, while also stretching the neck and spine. The pose is named after the fish because the final position resembles a fish leaping out of the water. Matsyasana is a rejuvenating and energizing pose that offers various physical and mental benefits.\n\n
+Step 1: Begin by lying flat on your back on the yoga mat, with your legs extended and arms resting alongside your body.\n\n
+Step 2: Place your hands, palms facing down, underneath your hips. To do this, slide your hands under your buttocks, palms touching the floor, and elbows tucked close to your sides.\n\n
+Step 3: Pressing firmly into your forearms and elbows, lift your chest and upper back off the floor. Arch your back and tilt your head backward, allowing the crown of your head to rest gently on the floor.\n\n
+Step 4: Lift your chest even higher, drawing your shoulder blades closer together. Keep your legs and lower body relaxed throughout the pose.\n\n
+Step 5: Hold the pose for several breaths, maintaining the lift in your chest and the openness in your throat and neck.\n\n
+Step 6: To release the pose, lower your chest and head back to the floor, and relax your arms alongside your body.\n\n
+Benefits:\n\n
+Matsyasana - Fish Pose provides a range of benefits for the body and mind, including:\n\n
+1. Chest and Throat Opening: The pose stretches and opens the chest and throat, improving respiratory function and counteracting the effects of hunching forward.\n\n
+2. Spine Flexibility: Matsyasana promotes flexibility in the spine and strengthens the muscles along the back.\n\n
+3. Stimulates the Throat Chakra: By opening the throat, Fish Pose stimulates the Vishuddha Chakra, enhancing communication and self-expression.\n\n
+4. Relieves Tension: The pose can help alleviate tension in the neck, shoulders, and upper back.\n\n
+5. Energetic and Emotional Balance: Fish Pose is believed to bring balance to the body energy flow and may have uplifting effects on mood and emotions.\n\n
+Matsyasana is accessible to most practitioners, but individuals with neck or back injuries should exercise caution or avoid the pose. As with any yoga asana, practice mindfully and listen to your body, avoiding force or strain. Regular practice of Matsyasana can contribute to an increased sense of openness and ease in the upper body.
+</string>
+    <string name="apose22">
+HALĀSANA - Plough Posture हलासन\n\n
+Hala means plough. In the final position of the posture, the body looks like a plough.\n\n
+STHITI:\n\n
+Lie down in the supine position keeping the legs together and stretch the hands straight above the head region i.e., from toes to head, the entire body in a straight line.\n\n
+Ekam (1)\n\n
+Raise both the legs together up to 45 degrees from the ground.\n\n
+Dve (2)\n\n
+Further raise the legs up to 90 degrees and place the hands by the side of the body.\n\n
+Trini (3)\n\n
+Raise further the buttocks and the trunk taking the support of the arms and the elbows by firmly placing the elbows on the ground and supporting the back with both the palms. Keep the legs parallel to the ground.\n\n
+Catvāri (4)\n\n
+Bend further and touch the toes on the floor above the head. Stretch the ankles.\n\n
+Panca (5)\n\n
+Return to position No.3\n\n
+Sata (6)\n\n
+Return to position No.2\n\n
+Sapta (7)\n\n
+Return to position No.1\n\n
+Asta (8)\n\n
+Return to Sthiti.\n\n
+BENEFITS\n\n
+Cultural:\n\n
+The back muscles, vertebrae, and lumbar nerves are stretched and kept healthy. Flexes and stretches abdominal muscles. Neck region receives plenty of blood supply and the nerves are toned up, also blood supply to the chest increases. Helps to maintain a healthy thyroid. Elasticity of the spine increases.\n\n
+Therapeutical:\n\n
+Good for dyspepsia, constipation due to weak abdominal muscles.\n\n
+Spiritual:\n\n
+Activates, warms up, lightens the psycho-physiological system.\n\n
+CAUTION\n\n
+Jerks at all stages should be avoided. All the limitations of Pascimatãnãsana apply to this also.\n\n
+SUBTLE POINTS\n\n
+Mode of bending:\n\n
+Keep the knees straight in the final position.\n\n
+Mode of breathing:\n\n
+Breathe out whenever you bend downwards and inhale while coming up. Normal breathing in the final position.
+</string>
+    <string name="apose23">
+CHAKRĀSANA-Wheel Posture चक्रासन\n\n
+Chakra means wheel and Asana means posture. In the final position of the posture, the body resembles a wheel.\n\n
+STHITI:\n\n
+Lie down on the supine keeping the legs together and stretching the hands straight above the head region i.e., from toes to head, the entire body in a straight line.\n\n
+Ekam (1)\n\n
+Bend the knees and place the heels closest to the buttocks. Place your palms by the side of the respective ears by bending the elbows.\n\n
+Dve (2)\n\n
+Lift the body up above the ground and balance on the palms and feet.\n\n
+Trini (3)\n\n
+Slowly return to position No. 1.\n\n
+Catvāri (4)\n\n
+Return to Sthiti.\n\n
+BENEFITS\n\n
+Cultural:\n\n
+Builds strong biceps, calves, and a flexible back. Stimulates the nerves of the spine; one of the powerful back-bending postures.\n\n
+Therapeutical:\n\n
+Clears the respiratory tract.\n\n
+Spiritual:\n\n
+A feeling of lightness and freshness is evoked.\n\n
+CAUTION\n\n
+Limitations of Sarvangāsana apply to this also.\n\n
+SUBTLE POINTS\n\n
+Mode of bending:\n\n
+Arch the body maximum. Do not raise the heels off the ground.\n\n
+Mode of breathing:\n\n
+Breathe out whenever you bend downwards and inhale while coming up. Normal breathing in the final position.
+</string>
+    <string name="apose24">
+SAVASANA - The Corpse Pose शवासन\n\n
+Sava means Corpse. The final position of the body resembles a corpse. This Āsana also signifies that one should be dead to all the external and internal stimulations without any response like a corpse.\n\n
+STHITI:\n\n
+Lie down on the floor like a dead body. Spread your feet apart and hands apart from the body. Adjust the parts of the body in their most comfortable positions, which may differ for different practitioners. The aim of the practice of the Asana is to systematically relax all the body parts and internal organs. In an advanced state of practice, one can even release the mental tensions and stresses. Further practice will lead to higher levels of concentration and meditation. In the beginning, learn to relax with the help of a guide.\n\n
+BENEFITS\n\n
+Cultural:\n\n
+It strengthens and tones up the entire system. All the muscles and joints get relaxed.\n\n
+Therapeutical:\n\n
+Savasana is extremely useful in managing psychosomatic ailments like Hypertension, tension headaches, etc.\n\n
+Spiritual:\n\n
+Very useful in the practice of Antaranga Yoga and enhances the general well-being of a person.\n\n
+Savāsana can be practiced by all irrespective of age and physical status. Maintain slow, deep, relaxed, rhythmic, and synchronized breathing throughout the practice. Savāsana can also be practiced in any comfortable position apart from lying down in the supine position.
+</string>
+
+
+    <string name="ppose1">
+PRĀŅĀYĀMA\n\n
+प्राणायाम\n\n
+1.Sectional Breathing\n\n
+This is a preparatory breathing practice for doing Prāṇāyāma. It chiefly corrects the breathing pattern and increases the vital capacity of the lungs. It has 3 sections:\n\n
+(a) Abdominal breathing or Diaphragmatic breathing (Adhama) \n\n
+Sit erect in Vajrasana. Exhale. Inhale completely, slowly and continuously. This is called Pūraka The abdomen is made to bulge continuously with the air entering especially into the lower sections of the lungs. Before exhaling stop the breath (Antarya Kumbhaka) for a secondWhile exhaling (Recaka) the abdomen is drawn inwards continuously and slowly. Before the breath is reversed, stop the breath (Bahya Kumbhaka) for a second and inhale. Repeat the breathing cycle. There should be no jerks in the whole processIt should be smooth, continuous and relaxing.\n\n
+The diaphragm separating the thorax from the abdomen descends during inhalation with the bulging of the abdomen. This increases the air- flow into the lower sections of the lungsThe rhythmic movement of the diaphragm massages the contents of the abdomen gently, and helps the organs to function normally. It promotes the general circulation also.\n\n
+(b)Thoracic (Chest) breathing Or intercostal breathing (Madhyama)\n\n
+In this sectional breathing performed while sitting erect in Vajrasana, inhalation and exhalation are performed by expanding and contracting the chest only. Air flows through both nostrils, slowly and continuously. The abdomen is controlled to avoid its bulging.\n\n
+The middle lobes are opened up fully by this type of breathing.\n\n
+(c )Upper lobar breathing or clavicular breathing (Adya)\n\n
+Sit erect in Vajrasana. Raise the collar bones while inhaling. Keep the abdominal muscles contracted.\n\n
+The air is forced into the uppermost regions of the lungs thus ventilating the upper lobes.\n\n
+The sparingly used upper lobes of the lungs will be properly aerated by this breathing.\n\n
+These three sectionalised breathings are also called\n\n
+Adhama. Madhyama and Àdya. In complete Yogic breathing technique all the above three types will be combined. During inhalation, the Adhama, Madhyama and Ädya occur sequentially and during exhalation the same sequence namely abdominal, chest and clavicular breathings occur. The whole process should be relaxing and comfortable, without any tension in the face.\n\n
+Four Mudras are generally associated with these sectional breathings. They are Cin Mudra for Adhama, Chinmaya Mudra for Madhyama, Àdi Mudra for Adya and Brahma Mudra for complete Yogic breathing.
+</string>
+    <string name="ppose2">
+BHASTRIKA PRÄNÃYÃMA\n\n
+Sit comfortably in an erect spine position.\n\n
+Perform deep and long inhalations\n\n
+and exhalations continuously.\n\n
+During the practice emphasize more on the thorax activity.\n\n
+The speed of breathing is 120 strokes as in Kapalabhati.\n\n
+After 10-15 strokes halt the practice and enjoy the Kevala Kumbhaka (automatic suspension of breathing) by being silent. Continue after a minute. Repeat 3 rounds.\n\n
+BENEFITS:\n\n
+Increases the blood circulation in the body. Very good for chronic cold, nasal allergies and various respiratory ailments. Supplements the benefits of Kapälabhati.\n\n
+Persons suffering from epilepsy and hypertension should avoid this practice.\n\n
+The flapping of the abdomen resembles the blacksmith s bellows and hence it is Bhastrikä.
+
+</string>
+    <string name="ppose3">
+3. ANULOMA-VILOMA अनुलोम विलोम\n\n
+(Simple Inhalation - Exhalation Prāṇāyāma)\n\n
+Sit erect in Padmasana Vajrasana (any or meditative posture) with head, trunk and buttocks in a straight line. Close your eyes and exhale completely\n\n
+Inhale through both the nostrils slowly and steadily without making any sound\n\n
+Exhale slowly, continuously and silently.\n\n
+Have inhalation and exhalation for the same duration (say 20 secs each). During exhalation the chest goes down and the abdomen is taken in. Both the chest and the abdomen expand during inhalation; rhythmic breathing.\n\n
+There is no holding of the breath (Kumbhaka).Mental recitation of 3%  AUM  can be followed during inhalation as well as exhalation. It is good to practise this at dawn and sunset (though not mandatory), in empty stomach.\n\n
+One can have about 10 to 15 rounds to start with, and can go up to 30 rounds. One inhalation and one exhalation means one round. One must practice Anuloma - Viloma for at least 3 months continuously to perceive the benefits.\n\n
+The whole practice is to be done in a very relaxed way, with least exhaustion.\n\n
+BENEFITS:\n\n
+Lungs, heart and stomach get purified, rhythmic breathing is the result. Lung capacity also increases. Helps in curing the diseases pertaining to lungs. Heart- beat gets normalized.\n\n
+We will now present the two types of Anuloma - Viloma.
+
+</string>
+    <string name="ppose4">
+4 CANDRANULOMA-VILOMA\n\n
+Here the inhalation and exhalation are through left nostril (Candra Nadi) only. Right nostril is kept closed all the time. All the other points in Anuloma-Viloma are applicable here also. Adopt Näsika Mudrā.
+
+</string>
+    <string name="ppose5">
+5 SŪRYĀNULOMA-VILOMA सूर्यानुलोम-विलोम\n\n
+In this inhalation and exhalation are carried out. through the right nostril (Surya Nãḍī) only, keeping the left nostril closed all the time. All points in Anuloma-Viloma are applicable.
+
+</string>
+    <string name="ppose6">
+6.SŪRYA BHEDANA सूर्य भेदन\n\n
+Sit comfortably in an erect spine position.\n\n
+* Inhale through the right nostril by closing the left nostril.\n\n
+* Exhale through the left nostril by closing the right nostril.\n\n
+Inhalations and exhalations should be as slow, deep and as long as possible.\n\n
+Repeat the same as above for 10 rounds.
+
+</string>
+    <string name="ppose7">
+7.CANDRA BHEDANA\n\n
+Sit comfortably in an erect spine position.\n\n
+Inhale through the left nostril by closing the right nostril.\n\n
+Exhale through the right nostril by closing the left nostril.\n\n
+Inhalations and exhalations should be as slow, deep and as long as possible.\n\n
+Repeat the same as above for 10 rounds.\n\n
+BENEFITS:\n\n
+This helps in curing chronic cold, cough, sinusitis and tension headaches. Also increases the digestive fire.
+
+</string>
+    <string name="ppose8">
+8. NĀDI SUDDHI - नाडी शुद्धि ( PURIFICATION OF SUBTLE PERCEPTION PATHS)\n\n
+The Nadi Suddhi is similar to Anuloma-Viloma, with the difference that inhalation and exhalation are done through alternate nostrils.\n\n
+Sit erect in Padmasana (or any other meditative posture). Exhale completely.\n\n
+Close the right nostril with the thumb of the right handInhale slowly, steadily and deeply as long as possible. Follow the entire course of the breath by feeling the movement of air. Do not hold the breath inside.\n\n
+Release the right and close the left nostril with the little and ring fingers of the right hand, and breathe out through the right nostrilAgain breathe in through the right nostril and then breathe out through the left nostril. This forms one round of Nadi Suddhi.\n\n
+Inhalation and exhalation from each side should be of the same duration. (In the beginning the duration may be unequal)\n\n
+ AUM can be mentally recited during inhalation and exhalation.\n\n
+To start with, one can have nine rounds and this can gradually be increased to about 25 or 30 rounds.\n\n
+Early morning and late evening are good for this practice.\n\n
+BENEFITS:\n\n
+Anuloma-Viloma and the Nāḍī Suddhi are the foundations for the practice of good Prāṇāyāma. One has to practise these for a duration of 3 to 6 months to accomplish the purification of the Nadis (72 lakhs) and Cakras (which exist in the subtle body, called Prāṇāmayā Kośa). The effect is described as follows:\n\n
+ He achieves purification of Nāḍīs marked by distinct signs lightness of body, brightness of eyes and increase in appetite.
+
+</string>
+    <string name="ppose9">
+9.UJJĀYĪ - उज्जायी (HISSING PRĀNĀYĀMA) Sit comfortably in any of the meditative postures with the spine erect.\n\n
+Start inhaling slowly through both nostrils. The incoming air should be felt at the upper palate. By partially closing the glottis, a sibilant (s) sound is produced in the throat.\n\n
+While making a swallowing movement, bend the neck forward and allow the breath to stop automatically and effortlessly.\n\n
+While maintaining, relax the head region and feel the locking of air below the throat. Exhale slowly through left nostril and continuously making a hissing noise at the throat by partial contraction of the glottis.\n\n
+This completes one cycle. Repeat 9 rounds.\n\n
+In other types of Ujayi, single nostril inhalation and exhalation are used. The airway resistance at the palate is the important aspect of this Pranayâma. It helps to reduce the speed of breathing.
+
+</string>
+    <string name="ppose10">
+10. SĪTKĀRĪ - सीत्कारी\n\n
+(FOLDED-UP-TONGUE PRĀṆĀYĀMA)\n\n
+Sit in a comfortable posture, with an erect spine. Exhale from both nostrils.\n\n
+Fold the tongue backwards and press the tip of the tongue by the hard palate, leaving narrow openings on either side of the tongue. Inhale through these side-openings making a hissing sound.\n\n
+Allow the breath to be stopped with ease.\n\n
+Exhale slowly and continuously through both the nostrils.\n\n
+Then allow the breath to stop with ease and release. Repeat.
+
+</string>
+    <string name="ppose11">
+11.SITALI (BEAK TONGUE PRĀŅĀYĀMA)\n\n
+Fold up the sides of the partially protruded tongue so as to form a long narrow tube resembling the beak of a birdThe passage is further narrowed by pressing the lips round the tongue. Inhale, making a hissing noise and perceive the cooling effect of the air as it passes through the tongue.\n\n
+Allow the breath to be stopped effortlessly. Exhale\n\n
+through both nostrils. Then allow the breath to be held comfortably before the next inhalation. Repeat the cycle.
+
+</string>
+    <string name="ppose12">
+12. SADANTA  (SUCK-THROUGH TEETH-PRĀŅĀYĀMA)\n\n
+Press the upper teeth on the lower ones.\n\n
+Suck in air through the crevices of the teeth slowly and continuously. \n\n
+Allow the breath to stop automatically. Exhale through both nostrils.\n\n
+Hold the breath comfortably for a while before the next inhalation Repeat the cycle.\n\n
+BENEFITS: All the above three - Šītkārī, Šītali and Sadanta have the same benefits. They are cooling Prāṇāyāmas. Because of their cooling effect, they help in calming down the mind by removing the mental anxiety and tension. They increase the resistance to diseases of respiratory system. Sadanta is particularly useful for persons suffering from pyorrhoea and hypersensitivity of gums.
+
+</string>
+    <string name="ppose13">
+13. BHRĀMARĪ-भ्रामरी \n\n
+(BEETLE-SOUNDING PRĀŅĀYĀMA)\n\n
+Sit erect in Padmasana. Breathe in through both nostrils in such a way that a fine sound like the one produced by a male beetle is heard. Allow the breath to stop effortlessly. Slowly exhale while producing a sound from the mouth and nose, so as to produce a sweet musical humming sound like a female beetle. Hold the breath. Slowly release. Repeat the cycle several times. It is said about Bhramari as follows:\n\n
+"By the Yoga, which consists in practising thus, there arises an indescribable bliss in the hearts of the best among Yogins" (Hatha Pradipika).
+
+</string>
+
+
+    <string name="mpose1">
+Anjali Mudra\n\n
+Anjali Mudra, the Salutation Seal, is a simple yet powerful hand gesture in yoga. To practice:\n\n
+- Stand or sit comfortably.\n
+- Bring your palms together at your heart center.\n
+- Press your hands gently, fingers pointing upward.\n
+- Close your eyes, take a breath, and center yourself.\n\n
+Benefits:\n\n
+Anjali Mudra - Salutation Seal offers:\n\n
+1. Focus: It helps bring attention to the present moment.\n
+2. Gratitude: Express gratitude and respect.\n
+3. Connection: Symbolizes unity and interconnectedness.\n\n
+Anjali Mudra is a quick practice to create inner peace and connection anytime, anywhere.
+</string>
+    <string name="mpose2">
+Dhyana Mudra\n\n
+Dhyana Mudra, the Meditation Seal, is a serene hand gesture in yoga. To practice:\n\n
+- Sit comfortably with hands on your lap.\n
+- Place your right hand over your left, palms facing upward.\n
+- Touch your thumbs gently, forming a triangle.\n
+- Close your eyes and breathe deeply.\n\n
+Benefits:\n\n
+Dhyana Mudra - Meditation Seal:\n\n
+1. Calm Mind: Aids in calming and focusing the mind.\n
+2. Inner Stillness: Enhances the practice of meditation.\n
+3. Spiritual Connection: Deepens the connection within.\n\n
+Dhyana Mudra supports a peaceful and introspective meditation practice.
+</string>
+    <string name="mpose3">
+Gyan Mudra\n\n
+Gyan Mudra, the Knowledge Seal, is a simple yet meaningful hand gesture in yoga. To practice:\n\n
+- Sit in a comfortable posture.\n
+- Touch the tip of your thumb and index finger.\n
+- Keep your other fingers extended and relaxed.\n
+- Rest your hands on your knees, palms facing upward.\n\n
+Benefits:\n\n
+Gyan Mudra - Knowledge Seal:\n\n
+1. Mental Clarity: Enhances concentration and memory.\n
+2. Wisdom: Connects to inner knowledge and insight.\n
+3. Calming: Encourages a sense of tranquility.\n\n
+Gyan Mudra is a subtle practice that promotes mental clarity and insight.
+</string>
+    <string name="mpose4">
+Hakini Mudra\n\n
+Hakini Mudra, the Hakini Gesture, is a balancing hand gesture in yoga. To practice:\n\n
+- Sit or stand comfortably.\n
+- Place your hands in front of you, fingers touching.\n
+- As you inhale, spread your fingers wide.\n
+- As you exhale, bring your fingers back together.\n\n
+Benefits:\n\n
+Hakini Mudra - Hakini Gesture:\n\n
+1. Brain Coordination: Enhances communication between brain hemispheres.\n
+2. Concentration: Helps improve focus and cognitive function.\n
+3. Stress Relief: Calms the mind and reduces tension.\n\n
+Hakini Mudra is a dynamic practice to harmonize the mind and promote balance.
+</string>
+    <string name="mpose5">
+Karana Mudra\n\n
+Karana Mudra is a symbolic hand gesture in yoga that is believed to dispel negativity and ward off obstacles. To practice:\n\n
+- Stand or sit comfortably with an upright posture.\n
+- Extend your hand in front of you, palm facing outward.\n
+- Fold your middle and ring fingers down to touch your thumb.\n
+- Keep your index and little fingers extended.\n\n
+Benefits:\n\n
+Karana Mudra:\n\n
+1. Protection: Believed to provide protection from negative influences.\n
+2. Clarity: Helps to clear the mind and promote mental focus.\n
+3. Purification: Symbolizes the removal of obstacles and impurities.\n\n
+Karana Mudra is a powerful gesture to enhance your practice and intentions.
+</string>
+    <string name="mpose6">
+Shanmukhi Mudra\n\n
+Shanmukhi Mudra, the Six Gate Seal, is a yogic gesture that promotes inner focus and stillness. To practice:\n\n
+- Sit in a comfortable position with a straight spine.\n
+- Close your ears with your thumbs, eyes with your index fingers, nostrils with middle fingers, and lips with your ring and little fingers.\n
+- Gently apply pressure to close off these sensory gates.\n\n
+Benefits:\n\n
+Shanmukhi Mudra - Six Gate Seal:\n\n
+1. Mind Calming: Helps to quiet the mind and reduce sensory distractions.\n
+2. Inner Awareness: Enhances introspection and inner concentration.\n
+3. Pratyahara: Supports the withdrawal of senses, a step in yoga practice.\n\n
+Shanmukhi Mudra aids in turning inward and heightening self-awareness.
+</string>
+    <string name="mpose7">
+Shunya Mudra\n\n
+Shunya Mudra, the Void Seal, is a hand gesture in yoga believed to influence the element of space within the body. To practice:\n\n
+- Sit comfortably with your hands resting on your knees.\n
+- Bend your middle finger to touch the ball of your thumb.\n
+- Keep your other fingers extended and relaxed.\n
+- Practice with both hands.\n\n
+Benefits:\n\n
+Shunya Mudra - Void Seal:\n\n
+1. Ear Health: Thought to benefit ear-related issues and promote ear health.\n
+2. Mental Clarity: Enhances mental clarity and focus.\n
+3. Element Balance: Helps balance the space element within the body.\n\n
+Shunya Mudra is a subtle practice that can support overall well-being and inner balance.
+</string>
+    <string name="mpose8">
+Surya Ravi Mudra\n\n
+Surya Ravi Mudra, the Sun Vitality Seal, is a hand gesture in yoga that is thought to enhance the fire element and energize the body. To practice:\n\n
+- Sit comfortably with your hands resting on your knees.\n
+- Bend your ring finger to touch the base of your thumb.\n
+- Keep your other fingers extended and relaxed.\n
+- Practice with both hands.\n\n
+Benefits:\n\n
+Surya Ravi Mudra - Sun Vitality Seal:\n\n
+1. Energy Boost: Believed to increase vitality and energy levels.\n
+2. Digestion Support: Thought to aid digestion and metabolism.\n
+3. Fire Element Balance: Helps balance the fire element within the body.\n\n
+Surya Ravi Mudra is a practice to invigorate the body energy and promote vitality.
+</string>
+    <string name="mpose9">
+Kalesvara Mudra\n\n
+Kalesvara Mudra, the Lord of Time Seal, is a hand gesture in yoga that is associated with the concept of time and transformation. To practice:\n\n
+- Sit comfortably with your hands resting on your knees.\n
+- Curl your ring finger and little finger to touch the base of your thumb.\n
+- Keep your other fingers extended and relaxed.\n
+- Practice with both hands.\n\n
+Benefits:\n\n
+Kalesvara Mudra - Lord of Time Seal:\n\n
+1. Awareness of Impermanence: Encourages reflection on the nature of time and change.\n
+2. Mindfulness: Supports a mindful approach to the present moment.\n
+3. Transformative Energy: Symbolizes the cyclical nature of life and transformation.\n\n
+Kalesvara Mudra is a practice that invites contemplation on the eternal flow of time and existence.
+</string>
+
+
+    <string name="spose1">
+Marjariasana\n\n
+Marjariasana, also known as Cat Pose/Cow Pose, is a gentle and flowing yoga asana that involves a rhythmic movement of the spine. This pose is beneficial for improving flexibility, releasing tension in the back, and promoting relaxation.\n\n
+Step 1: Start on your hands and knees in a tabletop position. Ensure your wrists are directly under your shoulders, and your knees are under your hips.\n\n
+Step 2: Inhale deeply, arch your back, and lift your head and tailbone towards the ceiling. This is the "Cow" position, where your belly drops towards the floor, and your gaze is directed upwards.\n\n
+Step 3: As you exhale, round your back like an angry cat, tucking your chin towards your chest and drawing your belly button towards your spine. This is the "Cat" position.\n\n
+Step 4: Flow between the Cow and Cat positions, coordinating the movements with your breath. Inhale to move into Cow Pose and exhale to transition into Cat Pose. Repeat this gentle flow for several rounds.\n\n
+Step 5: Continue the flowing movement for 1 to 2 minutes, focusing on the breath and maintaining awareness of the sensations in your spine.\n\n
+Benefits:\n\n
+Marjariasana - Cat Pose/Cow Pose offers numerous benefits for the body and mind, including:\n\n
+1. Spinal Flexibility: The flowing movement of the spine in this pose improves spinal flexibility and helps to release tension and stiffness in the back.\n\n
+2. Stress Relief: The rhythmic movement and focus on breath promote relaxation and reduce stress and anxiety.\n\n
+3. Improved Posture: Practicing Cat Pose/Cow Pose can help align the spine and improve posture.\n\n
+4. Core Strengthening: The engagement of the core muscles during the movement supports abdominal strength.\n\n
+5. Massage for Abdominal Organs: The gentle compression and expansion of the abdominal region during the flow can provide a massage-like effect on the internal organs, potentially aiding digestion.\n\n
+Overall, Marjariasana - Cat Pose/Cow Pose is an accessible and beneficial yoga pose that can be incorporated into daily practice for enhanced spine mobility and relaxation.
+</string>
+    <string name="spose2">
+Navasana\n\n
+Navasana, also known as Boat Pose, is a challenging yoga asana that engages the core muscles and helps to improve balance and strength. This pose is beneficial for toning the abdominal muscles, improving digestion, and promoting a sense of empowerment.\n\n
+Step 1: Sit on the floor with your legs extended straight in front of you and your hands resting beside your hips.\n\n
+Step 2: As you exhale, bend your knees and lift your feet off the floor, bringing your shins parallel to the ground.\n\n
+Step 3: Extend your arms straight out in front of you, keeping them parallel to the ground. Your fingers should be reaching toward your toes.\n\n
+Step 4: Balance on your sitting bones, engaging your core muscles to keep your spine straight and chest lifted. If you feel comfortable, try straightening your legs to bring them closer to a 45-degree angle with the floor.\n\n
+Step 5: Hold the pose for 20-30 seconds or as long as you can maintain proper form while breathing deeply. Gradually increase the duration as you build strength and stability.\n\n
+Benefits:\n\n
+Navasana - Boat Pose offers a range of benefits for the body and mind, including:\n\n
+1. Core Strengthening: Boat Pose primarily targets the core muscles, including the rectus abdominis and transverse abdominis, helping to build core strength and stability.\n\n
+2. Improved Digestion: The compression of the abdominal region in this pose can aid digestion and stimulate the organs involved in the digestive process.\n\n
+3. Balance and Coordination: Maintaining balance in Boat Pose challenges the sense of equilibrium and enhances coordination.\n\n
+4. Hip Flexor Stretch: This pose provides a gentle stretch to the hip flexors, which can become tight due to prolonged sitting or physical activity.\n\n
+5. Confidence and Focus: Boat Pose requires concentration and mental focus, fostering a sense of empowerment and self-assurance.\n\n
+Practicing Navasana regularly can contribute to overall strength, balance, and well-being, making it a valuable addition to any yoga routine.
+</string>
+    <string name="spose3">
+Janu Shirasana\n\n
+Janu Shirasana, also known as Head-to-Knee Pose, is a seated yoga asana that provides a deep stretch to the back of the extended leg and the hamstrings. This pose is beneficial for improving flexibility in the hips and hamstrings, and it offers a calming and grounding effect on the mind.\n\n
+Step 1: Begin by sitting on the floor with your legs extended straight in front of you.\n\n
+Step 2: Bend one knee and bring the sole of that foot to rest against the inner thigh of the opposite leg.\n\n
+Step 3: Inhale deeply, lengthen your spine, and as you exhale, hinge forward from your hips, reaching towards the extended leg.\n\n
+Step 4: Hold onto your ankle, shin, or foot, depending on your flexibility, and keep your spine straight as you fold forward.\n\n
+Step 5: Stay in this position for 1 to 2 minutes, breathing deeply and relaxing into the stretch. Repeat the pose on the other side.\n\n
+Benefits:\n\n
+Janu Shirasana - One-Legged Forward Bend offers several benefits for the body and mind, including:\n\n
+1. Hip Flexor Stretch: This pose stretches the hip flexors, which can become tight due to prolonged sitting or physical activity.\n\n
+2. Hamstring Flexibility: Janu Shirasana deeply stretches the hamstrings, improving flexibility and relieving tightness in the back of the thighs.\n\n
+3. Lower Back Relief: The forward fold gently stretches the lower back, providing relief from tension and promoting relaxation.\n\n
+4. Calm and Focus: The calming nature of this pose helps to quiet the mind and reduce stress and anxiety.\n\n
+5. Grounding: Janu Shirasana encourages a sense of grounding and connection with the earth, promoting a feeling of stability and balance.\n\n
+Incorporating Janu Shirasana into your yoga practice can help enhance flexibility, relieve tension, and promote overall well-being.
+</string>
+    <string name="spose4">
+Baddha Konasana\n\n
+Baddha Konasana, also known as Butterfly Pose, is a seated yoga asana that targets the hips, inner thighs, and groins. This pose is beneficial for increasing flexibility in the hip area and offers a calming and grounding effect on the mind.\n\n
+Step 1: Sit on the floor with your legs extended straight in front of you.\n\n
+Step 2: Bend your knees and bring the soles of your feet together, allowing your knees to drop out to the sides.\n\n
+Step 3: Hold your feet with your hands and gently press your knees towards the floor. Keep your spine straight and elongated.\n\n
+Step 4: Take a deep breath in, and as you exhale, gently hinge forward from your hips, bringing your chest towards your feet. Keep your back straight and avoid rounding your spine.\n\n
+Step 5: Hold the pose for 1 to 2 minutes, breathing deeply and maintaining a comfortable stretch. You can use your elbows to gently press your knees down for a deeper stretch.\n\n
+Benefits:\n\n
+Baddha Konasana - Butterfly Pose offers a range of benefits for the body and mind, including:\n\n
+1. Hip Flexibility: The pose stretches and opens the hips, helping to improve flexibility and reduce tightness in the hip area.\n\n
+2. Groin and Inner Thigh Stretch: Butterfly Pose targets the inner thighs and groins, releasing tension and promoting mobility in these areas.\n\n
+3. Pelvic Floor Relaxation: The gentle opening of the pelvis in this pose can help relax the pelvic floor muscles and alleviate discomfort in the pelvic region.\n\n
+4. Stimulates Abdominal Organs: Baddha Konasana stimulates the abdominal organs, potentially aiding digestion and improving overall digestive health.\n\n
+5. Calming and Grounding: The forward fold in Butterfly Pose has a calming effect on the nervous system, promoting relaxation and a sense of grounding.\n\n
+Regular practice of Baddha Konasana can contribute to greater hip flexibility, improved posture, and enhanced overall well-being.
+</string>
+    <string name="spose5">
+Supta Baddha Konasana\n\n
+Supta Baddha Konasana, also known as Reclined Bound Angle Pose, is a relaxing yoga asana that opens the hips and groin area. This pose is performed in a reclined position, offering a gentle stretch and relaxation for the body and mind. Supta Baddha Konasana is considered beneficial for promoting inner calmness, relieving stress, and supporting overall well-being.\n\n
+Step 1: Start by lying on your back with your knees bent and the soles of your feet together, allowing your knees to fall out to the sides, creating a diamond shape with your legs.\n\n
+Step 2: Gently bring your feet closer to your pelvis, so your knees drop closer to the floor. Allow your arms to rest comfortably by your sides, with your palms facing upwards.\n\n
+Step 3: Take a few deep breaths, allowing your body to relax and sink into the floor. Close your eyes and focus on your breath, letting go of any tension or stress.\n\n
+Step 4: Stay in this reclined position for 5 to 10 minutes or as long as you feel comfortable. You can place a bolster or cushion under your back for additional support and comfort.\n\n
+Step 5: To release the pose, gently bring your knees together and roll to one side before slowly sitting up.\n\n
+Benefits:\n\n
+Supta Baddha Konasana - Reclined Bound Angle Pose offers several benefits for the body and mind, including:\n\n
+1. Hip Opening: The pose gently stretches and opens the hips, which can be beneficial for individuals who sit for long periods during the day.\n\n
+2. Relaxation: Reclined Bound Angle Pose induces a state of deep relaxation, promoting inner calmness and reducing stress and anxiety.\n\n
+3. Groin and Inner Thigh Stretch: This asana targets the inner thighs and groins, releasing tension and promoting mobility in these areas.\n\n
+4. Improved Blood Circulation: The reclined position can improve blood circulation to the pelvic area, potentially supporting better ovarian function.\n\n
+5. Emotional Balance: Supta Baddha Konasanas restful nature can have a calming effect on the nervous system, fostering emotional balance and well-being.\n\n
+Incorporating Supta Baddha Konasana into your yoga practice can be a restorative way to relax and rejuvenate the body and mind.
+</string>
+    <string name="spose6">
+Parvatasana\n\n
+Parvatasana, also known as Mountain Pose, is a simple and effective yoga asana that can be practiced during pregnancy to promote strength, stability, and relaxation. This pose is safe and gentle, making it suitable for expectant mothers to maintain physical and mental well-being.\n\n
+Step 1: Sit comfortably on the floor or a cushion with your legs crossed, ensuring your spine is straight and aligned.\n\n
+Step 2: Place your hands on your knees or in your lap with palms facing upwards. Close your eyes to turn your attention inward and focus on your breath.\n\n
+Step 3: As you inhale deeply, gently lift your arms up towards the sky, keeping them parallel to each other and your shoulders relaxed.\n\n
+Step 4: Continue to breathe deeply as you stretch your arms upward, lengthening your spine, and creating space between the vertebrae.\n\n
+Step 5: Hold the pose for 1 to 2 minutes, maintaining steady breathing and a sense of grounding through your sitting bones.\n\n
+Benefits:\n\n
+Practicing Parvatasana during pregnancy offers a range of benefits, including:\n\n
+1. Improved Posture: Mountain Pose helps align the spine, shoulders, and hips, promoting good posture and reducing discomfort associated with pregnancy-related changes in the body.\n\n
+2. Upper Body Stretch: The gentle stretching of the arms, shoulders, and chest relieves tension and tightness, which is common during pregnancy.\n\n
+3. Relaxation: Parvatasana encourages a sense of relaxation and tranquility, which can be particularly helpful in managing stress and anxiety during pregnancy.\n\n
+4. Increased Awareness: Focusing on breath and body alignment in this pose enhances body awareness and mindfulness, supporting a deeper connection with the pregnancy journey.\n\n
+5. Pelvic Floor Engagement: Maintaining a seated position with an emphasis on breath encourages gentle engagement of the pelvic floor muscles, which is beneficial for pelvic health during pregnancy and postpartum recovery.
+</string>
+    <string name="spose7">
+Balasana\n\n
+Balasana, also known as Child Pose, is a gentle and restful yoga asana that provides a sense of comfort and relaxation. It is often used as a resting position during yoga practice and is known for its calming and grounding effects on the mind and body. Balasana is beneficial for relieving stress and tension, as well as gently stretching the back, hips, and shoulders.\n\n
+Step 1: Begin by kneeling on the floor with your big toes touching and knees spread wide apart. Sit back on your heels.\n\n
+Step 2: Inhale deeply, and as you exhale, lower your torso forward, placing it between your thighs. Extend your arms in front of you, bringing your palms to rest on the floor.\n\n
+Step 3: Rest your forehead on the mat or a prop, like a cushion or block, if it is more comfortable for you.\n\n
+Step 4: Relax your shoulders and breathe deeply, allowing your entire body to soften and release tension.\n\n
+Step 5: Hold the pose for 1 to 3 minutes or as long as you feel comfortable. To release, gently walk your hands back towards your body and slowly come up to a seated position.\n\n
+Benefits:\n\n
+Balasana - Childs Pose offers numerous benefits for the body and mind, including:\n\n
+1. Stress Relief: This calming pose helps reduce stress and anxiety by encouraging deep breathing and relaxation.\n\n
+2. Hip and Back Stretch: Balasana gently stretches the hips, thighs, and back, providing relief from tightness and discomfort.\n\n
+3. Shoulder and Neck Release: The forward folding position helps to release tension in the shoulders and neck.\n\n
+4. Digestive Aid: Childs Pose can massage the internal organs, potentially aiding digestion and promoting better gut health.\n\n
+5. Grounding: The connection between the forehead and the ground creates a sense of grounding and centering, making it an excellent pose for finding balance and tranquility.\n\n
+Incorporating Balasana into your yoga practice can be a nurturing and rejuvenating experience, providing a moment of peace and stillness amidst the flow of movements.
+</string>
+    <string name="spose8">
+Sukhasana\n\n
+Sukhasana, also known as Easy Pose, is a comfortable and foundational yoga asana that promotes ease and relaxation. It is a cross-legged sitting posture that is accessible to practitioners of all levels, making it a popular choice for meditation and pranayama practice. Sukhasana provides a stable and grounded base for cultivating inner stillness and a sense of peace.\n\n
+Step 1: Sit on the floor or a cushion with your legs crossed. You can place a folded blanket or cushion under your hips if needed to elevate them slightly.\n\n
+Step 2: Keep your spine erect and shoulders relaxed. Rest your hands on your knees with palms facing upwards or downwards, whatever feels comfortable for you.\n\n
+Step 3: Close your eyes or soften your gaze, and take a few deep breaths to settle into the present moment.\n\n
+Step 4: Bring awareness to your breath, allowing it to flow naturally without forcing or controlling it.\n\n
+Step 5: Remain in this comfortable seated position for as long as you wish, practicing mindfulness, meditation, or any other pranayama techniques.\n\n
+Benefits:\n\n
+Sukhasana - Easy Pose offers various benefits for the body and mind, including:\n\n
+1. Hip Opening: This asana gently stretches the hips, thighs, and ankles, promoting flexibility and mobility in these areas.\n\n
+2. Grounding: Sitting close to the ground connects you with the Earth, providing a sense of grounding and stability.\n\n
+3. Calm and Focus: The comfortable and balanced posture of Sukhasana helps to calm the mind and improve concentration.\n\n
+4. Spine Alignment: The natural alignment of the spine in this pose supports good posture and reduces tension in the back and shoulders.\n\n
+5. Stress Relief: Practicing Sukhasana can have a soothing effect on the nervous system, reducing stress and promoting a state of relaxation.\n\n
+Incorporating Sukhasana into your yoga routine can create a foundation for a peaceful and centered practice, enhancing your overall sense of well-being.
+</string>
+    <string name="spose9">
+Bakasana\n\n
+Bakasana, also known as Crane Pose or Crow Pose, is an arm balancing yoga asana that requires strength, focus, and coordination. This pose is named after the shape it resembles – that of a crane or crow in flight. Bakasana is an intermediate-level pose that challenges the core muscles and helps to build upper body strength and balance.\n\n
+Step 1: Begin in a squatting position with your feet slightly apart. Place your hands on the floor, shoulder-width apart, and spread your fingers wide for a stable base.\n\n
+Step 2: Keep your elbows slightly bent and draw your knees towards your upper arms, as close to your armpits as possible.\n\n
+Step 3: Shift your weight forward, engage your core, and slowly lift one foot off the floor, then the other. Start by lifting one foot at a time to find your balance.\n\n
+Step 4: Once both feet are off the ground, engage your core and gaze slightly forward to maintain stability.\n\n
+Step 5: Hold the pose for as long as you can maintain proper alignment and balance, then gently release your feet back to the floor and return to a squatting position.\n\n
+Benefits:\n\n
+Bakasana - Crane Pose offers numerous benefits for the body and mind, including:\n\n
+1. Strengthens Arms and Wrists: The weight-bearing nature of the pose strengthens the arms, wrists, and shoulders.\n\n
+2. Core Strengthening: Balancing on the arms engages the core muscles, building strength and stability.\n\n
+3. Tones Abdominal Muscles: The abdominal muscles are actively engaged to lift and support the legs in the pose.\n\n
+4. Improves Concentration: Bakasana requires focus and concentration, enhancing mental clarity and mindfulness.\n\n
+5. Empowering: Achieving and holding the pose can instill a sense of accomplishment and empowerment in practitioners.\n\n
+As an arm balance, Bakasana challenges and strengthens various muscle groups, making it an invigorating addition to your yoga practice.
+</string>
+    <string name="spose10">
+Upavistha Konasana\n\n
+Upavistha Konasana, also known as Wide-Angle Seated Forward Bend, is a seated yoga asana that provides a deep stretch to the inner thighs and groins. This pose helps to improve flexibility in the hips and hamstrings and offers a calming effect on the mind. Upavistha Konasana is considered a meditative posture, allowing practitioners to find inner peace and introspection.\n\n
+Step 1: Start by sitting on the floor with your legs extended straight in front of you.\n\n
+Step 2: Open your legs as wide as is comfortable for you, forming a wide angle between your legs. Flex your feet, toes pointing upwards.\n\n
+Step 3: Inhale deeply, lengthen your spine, and as you exhale, hinge forward from your hips, leading with your chest, not your head. Keep your back straight.\n\n
+Step 4: Reach your hands forward on the floor in front of you, walking them as far as you can while maintaining the length in your spine.\n\n
+Step 5: Hold the pose for 30 seconds to 1 minute or as long as you feel comfortable. As you breathe, relax into the stretch, surrendering any tension in your hips or groin.\n\n
+Benefits for Menstrual Health:\n\n
+Upavistha Konasana - Wide-Angle Seated Forward Bend offers specific benefits for menstrual health, including:\n\n
+1. Pelvic Circulation: The wide angle and forward fold in this pose can help improve blood circulation in the pelvic region, potentially reducing menstrual cramps and discomfort.\n\n
+2. Relaxation: The calming effect of the pose can help reduce stress and anxiety, which may contribute to a more balanced menstrual cycle.\n\n
+3. Relieves Lower Back Pain: Upavistha Konasana stretches the lower back muscles, providing relief from lower back pain that some women experience during their periods.\n\n
+4. Emotional Balance: The meditative quality of this pose allows for introspection and emotional grounding, supporting emotional balance during menstruation.\n\n
+5. Hormonal Regulation: Regular practice of Upavistha Konasana, along with a consistent yoga routine, may help regulate hormones, potentially benefiting menstrual regularity and overall reproductive health.\n\n
+Incorporating Upavistha Konasana into your yoga practice can provide a soothing stretch and support menstrual health by promoting relaxation and improving pelvic circulation.
+</string>
+    <string name="spose11">
+Utkata Konasana\n\n
+Utkata Konasana, also known as Goddess Pose, is a powerful and empowering yoga asana that strengthens the lower body and opens the hips and pelvis. This pose is often associated with the image of a powerful goddess, invoking qualities of strength and grace. Utkata Konasana is beneficial for building strength and flexibility in the legs and pelvic region and can offer specific advantages for menstrual health.\n\n
+Step 1: Stand tall with your feet about 3 to 4 feet apart, toes pointing outward at a 45-degree angle.\n\n
+Step 2: Inhale deeply and as you exhale, bend your knees, lowering your hips towards the ground. Keep your knees in line with your ankles and ensure they do not go beyond your toes.\n\n
+Step 3: Bring your hands to your heart center in a prayer position, engaging your chest and shoulders.\n\n
+Step 4: Lengthen your spine and draw your tailbone down, engaging your core muscles.\n\n
+Step 5: Hold the pose for 30 seconds to 1 minute, breathing deeply and maintaining the strength and stability of the pose.\n\n
+Benefits for Menstrual Health:\n\n
+Utkata Konasana - Goddess Pose offers specific benefits for menstrual health, including:\n\n
+1. Pelvic Opening: The wide stance and hip-opening nature of the pose can help relieve tension in the pelvic region and promote blood flow to the uterus during menstruation.\n\n
+2. Lower Body Strength: Goddess Pose strengthens the quadriceps, hamstrings, and glutes, providing better support to the pelvis during the menstrual cycle.\n\n
+3. Hormonal Regulation: Regular practice of Utkata Konasana, along with a consistent yoga routine, may help balance hormones, potentially easing menstrual symptoms and supporting regular menstrual cycles.\n\n
+4. Emotional Empowerment: The empowering nature of this pose can foster a sense of emotional strength and self-confidence during menstruation.\n\n
+5. Relieves Cramps: Goddess Pose stretches and strengthens the pelvic muscles, which can provide relief from menstrual cramps and discomfort.\n\n
+Incorporating Utkata Konasana into your yoga practice can provide a sense of strength and empowerment while supporting menstrual health and well-being.
+</string>
+
+</resources>
